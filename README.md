@@ -255,9 +255,9 @@ The following two actions are core mechanics, not optional rules. They are how a
 
 ### REDOUT
 
-A Redout is what happens when a pilot pushes through G-Force tolerance and feeds the cockpit AI a body that is no longer reliable input. They get faster reflexes for the rest of the race. They get worse hands. Forever.
+A redout occurs when a pilot exceeds physiological limits during high negative G-maneuvers. This force drives blood into the head, causing the visual field to take on a distinct reddish hue.
 
-> **Redout**: At the start of any of your activations, you may declare a Redout. Permanently reduce your Handling by 1 (minimum 1) for the remainder of this race. For the rest of the race, you may use any movement template regardless of your current Gear. Gear-restriction rules on templates are ignored; G-Force costs on High-G templates still apply.
+> **Redout**: At the start of your activation, you may declare a Redout. If you do, reduce your Handling by 1 (min 1) for the remainder of the race. Until the end of the turn, you may perform any maneuver regardless of your current Gear, ignoring gear restrictions. G-Force costs are paid as normal.
 >
 > You may declare Redout as many times as you like across the race. Each declaration costs another point of Handling.
 >
@@ -272,7 +272,7 @@ A Redout is what happens when a pilot pushes through G-Force tolerance and feeds
 
 The final and only true exit from G-Zero by your own hand. A pilot under sustained extreme G eventually stops being a pilot and becomes a fine red mist coating the inside of their cockpit. Some pilots reach this state by accident. The legendary ones reach it on purpose, on the final straight, with their nose pointed at the Finish Gate.
 
-> **Red Mist**: Once per race, at the start of one of your activations, only if you are currently in Gear 5 or Gear 6. You must add two Long Straight templates in any order, to your normal template for this activation. You roll no Skid Dice for this activation and gain no G-Force from the Red Mist movement itself. Collisions caused along the path are resolved normally for the other cars involved; you yourself ignore all G-Force from those collisions.
+> **Red Mist**: Once per race, at the start of one of your activations, only if you are currently in Gear 5 or Gear 6. You must add two Long Straight templates in any order, to your normal template for this activation. You roll no Skid Dice for this activation and gain no G-Force from the Red Mist movement itself. Collisions caused along the path are resolved normally for the other cars involved; you yourself ignore all G-Force from those collisions. Finishing the Race will count - even if you died for it.
 >
 > At the end of this activation, regardless of your position on the track, your driver dies. The car is removed from the game.
 >
