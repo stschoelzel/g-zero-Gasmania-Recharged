@@ -2,7 +2,35 @@
 ## A GASLANDS: REFUELLED HACK
 
 *G-Zero is an unofficial, non-commercial fan hack. Gaslands: Refuelled is copyright Mike Hutchinson / Osprey Games 2019. No challenge to copyright is intended.*
+# CREDITS & LEGAL
 
+{{note
+##### G-ZERO: GASMANIA RECHARGED
+Dieses Projekt ist eine Erweiterung für das Gaslands-Universum. Alle Regeln wurden mit dem Fokus auf maximale Geschwindigkeit und Zerstörung optimiert.
+}}
+
+### Author
+**Stephan Schölzel** {{fa,fa-github}} [github.com/stschoelzel](https://github.com/stschoelzel/)  
+{{fa,fa-link}} [G-Zero Project Repository](https://github.com/stschoelzel/g-zero-Gasmania-Recharged)
+
+:::
+:::
+
+### Fonts
+Under the **SIL Open Font License, Version 1.1**, this document uses the following typefaces:
+
+* **Karrik** & **Resistance** by [Velvetyne Type Foundry](https://www.velvetyne.fr)
+* **Illinois Mono** by [MadSimple](https://github.com/MadSimple)
+
+:::
+
+### Disclaimer
+"Gaslands Refuelled" is a trademark of Osprey Publishing. This fan-made supplement is not affiliated with, endorsed, or sponsored by Osprey Publishing or Mike Hutchinson.
+
+{{artist,bottom:40px,right:100px
+##### Build. Race. Die.
+G-ZERO 2026
+}}
 <br>
 
 > ##### DESIGN INTENT
@@ -652,4 +680,29 @@ Failure: driver dies, car removed.
 
 ---
 
-*G-Zero is an unofficial fan hack. Gaslands: Refuelled (c) Mike Hutchinson / Osprey Games 2019.*
+# CREDITS & LEGAL
+
+
+
+### Author
+**Stephan Schölzel** {{fa,fa-github}} [github.com/stschoelzel](https://github.com/stschoelzel/)  
+{{fa,fa-link}} [G-Zero Project Repository](https://github.com/stschoelzel/g-zero-Gasmania-Recharged)
+
+:::
+:::
+
+### Fonts
+Under the **SIL Open Font License, Version 1.1**, this document uses the following typefaces:
+
+* **Karrik** & **Resistance** by [Velvetyne Type Foundry](https://www.velvetyne.fr)
+* **Illinois Mono** by [MadSimple](https://github.com/MadSimple)
+
+:::
+
+### Disclaimer
+"Gaslands Refuelled" is a trademark of Osprey Publishing. This fan-made supplement is not affiliated with, endorsed, or sponsored by Osprey Publishing or Mike Hutchinson.
+
+{{artist,bottom:40px,right:100px
+##### Build. Race. Die.
+G-ZERO 2026
+}}
