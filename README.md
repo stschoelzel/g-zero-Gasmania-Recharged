@@ -17,7 +17,6 @@ The circuits of G-Zero float above the wastelands. Hovercars, sleek, unstable, b
 
 Unlike the Gaslands death races, nobody is supposed to die in G-Zero. That said, blacking out at 300km/h with a wall in front of you is not a fun experience, and the insurance premiums are absolutely devastating.
 
-\page
 
 ---
 
@@ -42,7 +41,7 @@ Unlike the Gaslands death races, nobody is supposed to die in G-Zero. That said,
 
 **Handling can drop during a race.** Each Tumble permanently reduces Handling by 1, to a minimum of 1. See Tumble and Handling Loss below.
 
-\page
+
 
 ---
 
@@ -78,6 +77,7 @@ When it is your turn to activate, instead of moving immediately you may declare 
 2. **Name a target vehicle.** You may target any qualified vehicle whose controller has lower initiative than you (further from the lead in race standings).
 3. The Gear Phase continues with other players activating in order. When your target vehicle completes its movement, your delayed activation resolves immediately afterwards, before any cleanup effects from the target's activation (such as a Blackout) are processed.
 4. Reveal your template and Altitude and resolve your activation as normal.
+5. Resolve the target vehicle's activation - including possibly gained G-Forces.
 
 If your target vehicle declares its own Delayed Activation, your delay resolves after their actual movement, not after their initial declaration. If your target is removed from the race before activating, your delayed activation resolves at the end of the current Gear Phase using the template you secretly chose.
 
@@ -96,7 +96,6 @@ At the **start of each Gear Phase**, every player with a qualified vehicle secre
 
 Once revealed, Altitude is public for the remainder of that activation. A driver's Altitude persists until their next activation.
 
-\page
 
 ---
 
@@ -142,7 +141,6 @@ G-Force tokens accumulate from gear changes, High-G templates, bad Skid Dice res
 
 Track G-Force on your car using a dial, dice, or stack of tokens marked **G**.
 
-\page
 
 ---
 
@@ -203,7 +201,6 @@ Additionally, each affected car is pivoted up to 90 degrees in a direction chose
 > ##### NOTE
 > A Tumble can chain into walls. If the tumble path lands the car against a wall, that is just a wall. The Tumble does not deflect or stop short. Walls do not gain G-Force tokens. They have other ways of objecting.
 
-\page
 
 ---
 
@@ -247,7 +244,6 @@ When a driver at Handling 1 Blacks Out, before any other Blackout effects resolv
 > ##### NOTE
 > The Emergency Dampener Check is the only way ordinary play can permanently kill a driver. It is the cumulative bill the body has been keeping. The first time it triggers, the driver almost always lives. The fourth time, no roll, no chance, just a name added to the lap sheet's other side.
 
-\page
 
 ---
 
@@ -284,7 +280,6 @@ The final and only true exit from G-Zero by your own hand. A pilot under sustain
 >
 > A driver at Handling 1 cannot declare Red Mist.
 
-\page
 
 ---
 
@@ -348,7 +343,6 @@ These bonus Dampener results are added to your Skid Dice pool as free results. Y
 > ##### SURVIVAL TIP
 > Mid is where you go to clean up. After a chaotic dive or a high-speed High run, returning to Mid gives you Dampener results to spend on G-Force removal. Learn to use Mid as a planned reset rather than just a fallback.
 
-\page
 
 ---
 
@@ -411,7 +405,6 @@ In a car versus car collision, each driver declares a Reaction. In an object col
 > ##### NOTE
 > Smash Attacks from Gaslands do not exist in this game. No attack dice are rolled. No Hull Points are lost. The only consequences of a collision are G-Force tokens, possible Spin-Outs, and (for object collisions) Burst Template effects.
 
-\page
 
 ---
 
@@ -432,7 +425,6 @@ The effect of the Burst Template depends on the material of the object struck. P
 > ##### DESIGNER NOTE
 > Burst Templates exist to make object collisions matter beyond a single car's misfortune. They are the racing equivalent of a peripheral hazard. If a leader takes out a stack of barrels on the apex of a corner, the chasers entering that apex deal with the consequences too. Place soft scenery where you want the track to forgive, place heavy scenery where you want it to bite.
 
-\page
 
 ---
 
@@ -464,7 +456,6 @@ Some tracks may feature **Altitude Gates**, a Gate marked with a specific requir
 
 Mark Altitude Gates with a coloured token on the Gate.
 
-\page
 
 ---
 
@@ -486,7 +477,6 @@ A car directly behind another car at the same Altitude and same Gear (within one
 
 Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written, with the following restrictions: any Audience Vote effect that references weapons, attacks, Hull Points, or Crew is unavailable. The most useful effects are Burn Rubber, Thunderous Applause, and Slippery Track. Others are at the referee's discretion.
 
-\page
 
 ---
 
@@ -508,7 +498,6 @@ Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written,
 > A formal table mapping each material category to specific Burst Template effects is in development. Until then, use player consensus during track setup or in the moment.
  <br>
 
-\page
 
 ---
 
@@ -563,7 +552,6 @@ Roll up to Handling dice (max 4). Resolve in order:
 | Low -> Mid | +2 Dampeners | none |
 | High -> Mid | +2 Dampeners | none |
 
-\page
 
 ### GRAZE TABLE (DIFFERENT ALTITUDE)
 
