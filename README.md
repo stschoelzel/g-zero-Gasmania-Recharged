@@ -37,9 +37,11 @@ Unlike the Gaslands death races, nobody is supposed to die in G-Zero. That said,
 | Hull Points | None |
 | Crew | None |
 
-**No Hull Points.** Cars cannot be destroyed by ordinary play. The only way to leave the race is to voluntarily retire, to be lapped beyond recovery, or to trigger Red Mist (see Optional Rules).
+**No Hull Points.** Cars cannot be destroyed by ordinary play. The only ways to leave the race are voluntary retirement, being lapped beyond recovery, dying in an Emergency Dampener Check, or triggering Red Mist.
 
 **No Crew.** There are no crew actions, no shooters, no passengers. The driver is alone in that cockpit, and the cockpit is the only thing between them and several G of pure punishment.
+
+**Handling can drop during a race.** Each Tumble permanently reduces Handling by 1, to a minimum of 1. See Tumble and Handling Loss below.
 
 \page
 
@@ -55,13 +57,33 @@ The following is a summary of the core rules as they function in G-Zero. For ful
 
 ### ACTIVATION ORDER
 
-At the start of each round, the player who holds the **Pole Position token** activates first. Play then proceeds clockwise around the table.
+At the start of each round, the player who holds the **Pole Position token** activates first. Play then proceeds in **initiative order**, which is the current race standing from leader to last place.
 
-Within each Gear Phase, players take turns in Pole Position order. When it is their turn, a player must activate one of their qualified vehicles (a vehicle whose Gear is equal to or higher than the current Phase number). A player with multiple qualified vehicles may freely choose which to activate.
+Within each Gear Phase, players take turns in initiative order. When it is their turn, a player must either:
+- Activate one of their qualified vehicles (a vehicle whose Gear is equal to or higher than the current Phase number), or
+- Declare a **Delayed Activation** (see below).
 
-**A player may not pass their activation** if they have a qualified vehicle. The only way to influence when you act relative to others is through Gear choice between rounds.
+A player with multiple qualified vehicles may freely choose which to activate.
 
-**Pole Position** passes clockwise at the end of each round.
+**A player may not skip their turn** if they have a qualified vehicle. The only way to influence when you act relative to others is through Gear choice between rounds, or through Delayed Activation within a Gear Phase.
+
+**Pole Position passes to the player whose vehicle is currently leading the race** at the end of each round. Leadership is measured by gates passed, with distance to the next gate as the tiebreaker.
+
+---
+
+### DELAYED ACTIVATION
+
+When it is your turn to activate, instead of moving immediately you may declare a **Delayed Activation**.
+
+1. **Secretly choose your movement template now.** Note it down or set the physical template aside face-down. Your Altitude declaration also remains secret as normal.
+2. **Name a target vehicle.** You may target any qualified vehicle whose controller has lower initiative than you (further from the lead in race standings).
+3. The Gear Phase continues with other players activating in order. When your target vehicle completes its movement, your delayed activation resolves immediately afterwards, before any cleanup effects from the target's activation (such as a Blackout) are processed.
+4. Reveal your template and Altitude and resolve your activation as normal.
+
+If your target vehicle declares its own Delayed Activation, your delay resolves after their actual movement, not after their initial declaration. If your target is removed from the race before activating, your delayed activation resolves at the end of the current Gear Phase using the template you secretly chose.
+
+> ##### TACTICAL NOTE
+> Delayed Activation is the leader's tool. The player in front sees the chasers commit, then resolves their own move with knowledge of where the threats actually are. The cost is that you forfeit any chance to set the pace, and you cannot react to anyone moving before you in initiative order.
 
 ---
 
@@ -70,13 +92,12 @@ Within each Gear Phase, players take turns in Pole Position order. When it is th
 At the **start of each Gear Phase**, every player with a qualified vehicle secretly notes their chosen Altitude for this activation (Low, Mid, or High) on a slip of paper or token kept face-down.
 
 **Altitude is revealed** when:
-- It is that player's turn to activate, or
+- It is that player's turn to activate (or their Delayed Activation resolves), or
 - Their car is involved in a collision before their activation, in which case both drivers involved must immediately reveal their Altitude to resolve the collision.
 
 Once revealed, Altitude is public for the remainder of that activation. A driver's Altitude persists until their next activation.
 
-> ##### EXAMPLE
-> It is Gear Phase 4. Three drivers are qualified. All three secretly note their Altitude. The first driver activates and flips their token: High. The second driver has not yet activated when a collision is triggered mid-phase. Both drivers involved reveal immediately. The third driver reveals normally when their turn comes.
+\page
 
 ---
 
@@ -85,8 +106,6 @@ Once revealed, Altitude is public for the remainder of that activation. A driver
 Each round, Gear Phases 1 through 6 activate in order. A vehicle activates in the Gear Phase matching its current Gear. If a vehicle changes Gear during its activation, it activates in its new Gear Phase next round.
 
 A vehicle may change Gear by +1 or -1 for free. Changing by more than 1 in a single step costs 1 G-Force token per additional step.
-
-\page
 
 ---
 
@@ -102,7 +121,7 @@ Some combinations are marked **Trivial**: they grant 1 free Dampener result with
 
 ### SKID DICE
 
-After placing the template, the active player rolls up to 4 Skid Dice (equal to Handling). Results are resolved in the following order:
+After placing the template, the active player rolls Skid Dice equal to current Handling, up to a maximum of 4. Results are resolved in the following order:
 
 | Result | Effect |
 |:---|:---|
@@ -111,7 +130,7 @@ After placing the template, the active player rolls up to 4 Skid Dice (equal to 
 | **Slide** | Move to the Slide exit point on the template. Gain 1 G-Force token. |
 | **Spin** | Pivot up to 90 degrees at Final Position. Gain 1 G-Force token. |
 
-You do not have to roll all 4 dice. If you are sitting on 4 or 5 G-Force tokens, sometimes the correct move is to roll nothing.
+You do not have to roll all your dice. If you are sitting on 4 or 5 G-Force tokens, sometimes the correct move is to roll nothing.
 
 > ##### NARRATIVE NOTE
 > A Dampener result represents the cockpit's active stabilisers and your pilot's own physiology bleeding off accumulated stress. Every Dampener you spend is energy that does not go into the engine. Every G-Force you accept is a debt your body will eventually be asked to pay. Speed and survival are the same currency.
@@ -131,29 +150,38 @@ Track G-Force on your car using a dial, dice, or stack of tokens marked **G**.
 ### BLACKOUT
 
 > ##### DIFFERENCE FROM GASLANDS
-> In Gaslands, a Wipeout can result in a car being Destroyed. In G-Zero, cars are never removed by ordinary play. A Blackout is what happens when the human inside the cockpit briefly stops being able to fly.
+> In Gaslands, a Wipeout can result in a car being Destroyed. In G-Zero, cars are not removed by ordinary Blackouts. A Blackout is what happens when the human inside the cockpit briefly stops being able to fly. Cumulative Blackouts at Handling 1 can eventually kill the driver (see Emergency Dampener Check).
 
-When a car would Black Out:
+When a car would Black Out, resolve the following steps in order:
 
-1. The driver loses consciousness for several seconds. The car keeps moving, uncontrolled, end over end.
-2. Resolve a **Tumble** (see below).
-3. Roll 1D6. On a **1 or 2**, the driver enters **Recovery** (see below).
-4. Gear resets to 1.
-5. All G-Force tokens are cleared.
-6. Altitude resets to **Mid**.
-7. The car's facing after the Tumble is the facing it keeps. They will be pointing at a wall.
+1. **If the driver is at Handling 1**, immediately perform an **Emergency Dampener Check** (see below). If they fail, they die and the car is removed. If they survive, continue.
+2. **Roll 1D6** to determine the outcome:
+   - **1 or 2**: the vehicle **Tumbles** (see below). Tumble automatically applies its own Handling loss and Recovery as described in the Tumble section.
+   - **3 to 6**: the driver enters **Recovery** (see below). No Tumble, no Handling loss.
+3. Gear resets to 1.
+4. All G-Force tokens are cleared.
+5. Altitude resets to **Mid**.
+
+The car's facing after step 2 is the facing it keeps. If a Tumble was rolled, that is the Tumble direction. If only Recovery was rolled, the facing is unchanged.
 
 ---
 
 ### TUMBLE
 
-A Blackout in Gear 2 is embarrassing. A Blackout in Gear 6 is a multi-car incident.
+A Tumble at Gear 2 is embarrassing. A Tumble at Gear 6 is a multi-car incident.
 
-**Tumble Direction:** Roll 1D6 to determine which way the unconscious car flips. The result maps to one of six 60-degree wedges around the car (1 = directly forward, 2 = forward-right, 3 = back-right, 4 = directly back, 5 = back-left, 6 = forward-left). The car's nose now points in that direction.
+**Tumble can be triggered by:**
+- A Blackout result of 1 or 2.
+- A Burst Template result from striking a solid object (see Collisions).
+- Any other game effect that specifies Tumble.
 
-**Tumble Distance:** Based on the Gear the car was in at the moment of Blackout:
+Whatever the trigger, the procedure is the same.
 
-| Gear at Blackout | Tumble Template |
+**Tumble Direction:** Roll 1D6 to determine which way the car flips. The result maps to one of six 60-degree wedges around the car (1 = directly forward, 2 = forward-right, 3 = back-right, 4 = directly back, 5 = back-left, 6 = forward-left). The car's nose now points in that direction.
+
+**Tumble Distance:** Based on the Gear the car was in at the moment of the trigger:
+
+| Gear at Trigger | Tumble Template |
 |:---|:---:|
 | 1 to 2 | Short Straight |
 | 3 to 4 | Medium Straight |
@@ -161,26 +189,101 @@ A Blackout in Gear 2 is embarrassing. A Blackout in Gear 6 is a multi-car incide
 
 Place the Tumble template from the car's current position in the rolled direction, then move the car to the end of it.
 
-**Tumble Collisions:** Every other vehicle whose base is overlapped by the Tumble template, or whose base the blacked-out car ends in contact with, is **caught in the wreckage**. Each affected car gains G-Force tokens equal to the Tumble length:
+**Tumble Collisions:** Every other vehicle whose base is overlapped by the Tumble template, or whose base the tumbling car ends in contact with, is **caught in the wreckage**. Each affected car gains G-Force tokens equal to the Tumble length:
 
 - Short Tumble: +1 G-Force
 - Medium Tumble: +2 G-Force
 - Long Tumble: +3 G-Force
 
-Additionally, each affected car is pivoted up to 90 degrees in a direction chosen by the player whose car Blacked Out. Affected cars may not declare an Evade or Brace reaction. Nobody is in the cockpit of an unconscious tumbling hovercar to negotiate with.
+Additionally, each affected car is pivoted up to 90 degrees in a direction chosen by the player whose car Tumbled. Affected cars may not declare an Evade or Brace reaction. Nobody is in the cockpit of an unconscious tumbling hovercar to negotiate with.
 
-After the Tumble resolves, the blacked-out car is placed at the end of its Tumble path, facing in the Tumble direction.
+**Tumble Aftermath:** After any Tumble resolves:
+- The tumbling driver **permanently loses 1 Handling** for the remainder of this race (minimum Handling 1).
+- The tumbling driver **enters Recovery**.
 
 > ##### NOTE
-> A Tumble can chain. If the blacked-out car's tumble path lands it in contact with a wall, that is just a wall. The Tumble does not deflect or stop short. Walls do not gain G-Force tokens. They have other ways of objecting.
+> A Tumble can chain into walls. If the tumble path lands the car against a wall, that is just a wall. The Tumble does not deflect or stop short. Walls do not gain G-Force tokens. They have other ways of objecting.
+
+\page
 
 ---
 
 ### RECOVERY
 
-If the 1D6 roll after a Blackout came up 1 or 2, mark the car with a **Recovery** token. The car skips its next qualifying activation. The pilot is awake but the cockpit is rebooting, the harness is screaming, and the driver's vision has not yet returned to colour.
+A driver in **Recovery** skips their next qualifying activation. Mark the car with a Recovery token. The pilot is awake but the cockpit is rebooting, the harness is screaming, and the driver's vision has not yet returned to colour.
 
-This replaces the Gaslands "Flip" rule. No removal, no permanent consequence beyond the lost activation.
+Recovery is triggered by:
+- A Blackout result of 3 to 6.
+- Any Tumble (as part of Tumble Aftermath).
+
+A car cannot accumulate multiple Recovery tokens. If a car already in Recovery would enter Recovery again, treat the second trigger as having no additional effect beyond what its source already imposed (such as Handling loss from a second Tumble).
+
+---
+
+### HANDLING LOSS
+
+Each Tumble permanently reduces a driver's Handling by 1 for the rest of the race, to a minimum of 1. Track the current Handling value on a dial or with markers.
+
+- Handling determines how many Skid Dice you roll each activation (capped at 4).
+- A driver at **Handling 1** may not declare Redout or Red Mist. Their nervous system and machine are too compromised to attempt anything that extreme.
+- A driver at **Handling 1** who Blacks Out must roll an Emergency Dampener Check (below).
+
+---
+
+### EMERGENCY DAMPENER CHECK
+
+When a driver at Handling 1 Blacks Out, before any other Blackout effects resolve, they must roll an **Emergency Dampener Check** on 1D6. Track the number of Emergency Dampener Checks this driver has been forced to make this race.
+
+| Check Number | Required d6 result to survive |
+|:---|:---:|
+| 1st | 2+ |
+| 2nd | 4+ |
+| 3rd | 6+ |
+| 4th | automatic death, no roll |
+
+**On a success**, resolve the Blackout normally. A Tumble result from this Blackout does NOT cause further Handling loss, because the driver is already at the minimum.
+
+**On a failure**, the driver dies. Their car is removed from the race.
+
+> ##### NOTE
+> The Emergency Dampener Check is the only way ordinary play can permanently kill a driver. It is the cumulative bill the body has been keeping. The first time it triggers, the driver almost always lives. The fourth time, no roll, no chance, just a name added to the lap sheet's other side.
+
+\page
+
+---
+
+# DRIVER ACTIONS
+
+The following two actions are core mechanics, not optional rules. They are how an experienced driver squeezes performance out of a system that has already started punishing them.
+
+---
+
+### REDOUT
+
+A Redout is what happens when a pilot pushes through G-Force tolerance and feeds the cockpit AI a body that is no longer reliable input. They get faster reflexes for the rest of the race. They get worse hands. Forever.
+
+> **Redout**: At the start of any of your activations, you may declare a Redout. Permanently reduce your Handling by 1 (minimum 1) for the remainder of this race. For the rest of the race, you may use any movement template regardless of your current Gear. Gear-restriction rules on templates are ignored; G-Force costs on High-G templates still apply.
+>
+> You may declare Redout as many times as you like across the race. Each declaration costs another point of Handling.
+>
+> A driver at Handling 1 cannot declare a Redout.
+
+> ##### SURVIVAL TIP
+> Redout is what you reach for in the final lap when your only path to a podium is doing things your car was not designed for. Stacking Redouts is what you reach for when you have already decided you are going to win or detonate.
+
+---
+
+### RED MIST
+
+The final and only true exit from G-Zero by your own hand. A pilot under sustained extreme G eventually stops being a pilot and becomes a fine red mist coating the inside of their cockpit. Some pilots reach this state by accident. The legendary ones reach it on purpose, on the final straight, with their nose pointed at the Finish Gate.
+
+> **Red Mist**: Once per race, at the start of one of your activations, only if you are currently in Gear 5 or Gear 6. You must add two Long Straight templates in any order, to your normal template for this activation. You roll no Skid Dice for this activation and gain no G-Force from the Red Mist movement itself. Collisions caused along the path are resolved normally for the other cars involved; you yourself ignore all G-Force from those collisions.
+>
+> At the end of this activation, regardless of your position on the track, your driver dies. The car is removed from the game.
+>
+> **Exception**: if you crossed the Finish Gate on your final lap during this activation, you are recorded as a Finisher. The result book will list your placing. Whether the obituary calls you a winner depends on where the other cars are.
+>
+> A driver at Handling 1 cannot declare Red Mist.
 
 \page
 
@@ -253,15 +356,17 @@ These bonus Dampener results are added to your Skid Dice pool as free results. Y
 # COLLISIONS
 
 > ##### DIFFERENCE FROM GASLANDS
-> In Gaslands, collisions involve a Smash Attack: attack dice are rolled, Hull Points are lost, and vehicles can be destroyed. In G-Zero, there are no Hull Points and no attack dice. Collisions produce G-Force tokens and Spin-Outs. Altitude determines whether a collision is full contact or a graze.
+> In Gaslands, collisions involve a Smash Attack: attack dice are rolled, Hull Points are lost, and vehicles can be destroyed. In G-Zero, there are no Hull Points and no attack dice. Collisions produce G-Force tokens, Spin-Outs, and (for object collisions) Burst Templates. Altitude determines whether a car-vs-car collision is full contact or a graze.
 
 ### ALTITUDE AND COLLISION TYPE
 
-Before resolving any collision, compare the Altitudes of the two cars involved. If either driver has not yet revealed their Altitude this phase, they must do so now.
+Before resolving any collision between two cars, compare the Altitudes of the two cars involved. If either driver has not yet revealed their Altitude this phase, they must do so now.
 
 **Same Altitude:** Full collision. Resolve as described under Full Collision below.
 
 **Different Altitude:** Graze. The cars clip each other. Resolve using the graze table below, based on the Altitude differential.
+
+Object collisions (car versus terrain or scenery) are always resolved as a Full Collision against the object, plus a Burst Template (see below).
 
 ---
 
@@ -288,9 +393,14 @@ High Altitude is the dominant position. Flying High makes a driver dangerous as 
 
 ### FULL COLLISION
 
-When two cars are at the same Altitude, a full collision occurs. First, determine orientation as in Gaslands: Refuelled (Head-On, T-Bone, or Tailgate).
+When two cars are at the same Altitude, OR a car collides with any object, a Full Collision occurs. First, determine orientation:
 
-Each driver then declares a **Reaction**:
+- **Car versus Car**: Head-On, T-Bone, or Tailgate as in Gaslands: Refuelled.
+- **Car versus Soft Object** (bushes, persons, paper stands, light debris): resolves as a **Tailgate** collision. Place a **Small Burst Template** of debris.
+- **Car versus Medium Solid Object** (billboards, barrels, small containers, crates): resolves as a **T-Bone** collision. Place a **Large Burst Template** of debris.
+- **Car versus Heavy Solid Object** (walls, hard gates, pillars, large containers): resolves as a **Head-On** collision.
+
+In a car versus car collision, each driver declares a Reaction. In an object collision, the colliding driver declares a Reaction normally; the object does not react and cannot Spin you out, although the Burst Template may affect nearby cars.
 
 | Reaction | G-Force Cost | Special |
 |:---|:---:|:---|
@@ -300,7 +410,28 @@ Each driver then declares a **Reaction**:
 **Spin-Out:** If you chose Brace and you are the non-moving car, you may pivot the other car up to 90 degrees (T-Bone) or any direction (Head-On) after movement resolves. If both drivers chose Brace on a Head-On, both cars spin each other simultaneously. Decide direction by rock-paper-scissors or dice-off.
 
 > ##### NOTE
-> Smash Attacks from Gaslands do not exist in this game. No attack dice are rolled. No Hull Points are lost. There are no weapon stats, no Crew members firing, nothing. The only consequence of a collision is G-Force tokens and possible Spin-Outs.
+> Smash Attacks from Gaslands do not exist in this game. No attack dice are rolled. No Hull Points are lost. The only consequences of a collision are G-Force tokens, possible Spin-Outs, and (for object collisions) Burst Template effects.
+
+\page
+
+---
+
+### BURST TEMPLATES
+
+When a car strikes an object, the object shatters, deforms, or explodes. Place the appropriate Burst Template (Small, Large, or Extra-Large) centred on the point of collision. The Burst Template is oriented along the colliding vehicle's direction of travel.
+
+**Any other vehicle whose base overlaps the Burst Template** suffers an effect determined by the object's **material**. The colliding vehicle itself is not affected by its own Burst Template; it has already paid the cost of impact through the Full Collision reaction.
+
+The effect of the Burst Template depends on the material of the object struck. Possible outcomes include:
+
+- Lose or gain G-Force tokens
+- Lose or gain Gear
+- Tumble
+
+**A formal material/effect table is in development.** Until it is published, the players at the table decide what effect each piece of scenery produces when destroyed. Assign material categories and effects during track setup, or resolve them by group consensus in the moment. People who play games like this know how to handle it.
+
+> ##### DESIGNER NOTE
+> Burst Templates exist to make object collisions matter beyond a single car's misfortune. They are the racing equivalent of a peripheral hazard. If a leader takes out a stack of barrels on the apex of a corner, the chasers entering that apex deal with the consequences too. Place soft scenery where you want the track to forgive, place heavy scenery where you want it to bite.
 
 \page
 
@@ -318,13 +449,13 @@ A standard race is **3 laps**. The first car to complete all laps and cross the 
 
 ### STARTING GRID
 
-Roll off to determine starting positions. Place cars in a single-file line at the Start Gate, separated by one car length. All cars begin at Gear 1, Altitude Mid. The driver in first position receives the Pole Position token.
+Roll off to determine starting positions. Place cars in a single-file line at the Start Gate, separated by one car length. All cars begin at Gear 1, Altitude Mid, Handling 4, no Recovery, no Emergency Dampener Checks logged. The driver in first position receives the Pole Position token.
 
 ---
 
 ### BEING LAPPED
 
-If a car falls more than one full lap behind the leader, it may use the **Restart Rule**: the car teleports to the last Gate it legally passed, resets to Gear 1, clears all G-Force tokens, and resets Altitude to Mid. This keeps hopeless positions from becoming unplayable.
+If a car falls more than one full lap behind the leader, it may use the **Restart Rule**: the car teleports to the last Gate it legally passed, resets to Gear 1, clears all G-Force tokens, and resets Altitude to Mid. Handling, Recovery, and Emergency Dampener Check counts are NOT reset. This keeps hopeless positions from becoming unplayable without erasing the consequences of how the driver got there.
 
 ---
 
@@ -332,7 +463,7 @@ If a car falls more than one full lap behind the leader, it may use the **Restar
 
 Some tracks may feature **Altitude Gates**, a Gate marked with a specific required Altitude (Low, Mid, or High). A driver must be at the marked Altitude when passing through the Gate for the passage to count. Passing at the wrong Altitude does not count and does not grant the Gate, but the driver is not penalised beyond having to come back around.
 
-This is an optional rule. Mark Altitude Gates with a coloured token on the Gate.
+Mark Altitude Gates with a coloured token on the Gate.
 
 \page
 
@@ -356,34 +487,6 @@ A car directly behind another car at the same Altitude and same Gear (within one
 
 Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written, with the following restrictions: any Audience Vote effect that references weapons, attacks, Hull Points, or Crew is unavailable. The most useful effects are Burn Rubber, Thunderous Applause, and Slippery Track. Others are at the referee's discretion.
 
----
-
-### REDOUT
-
-A Redout is what happens when a pilot pushes through G-Force tolerance and feeds the cockpit AI a body that is no longer reliable input. They get faster reflexes for the rest of the race. They get worse hands. Forever.
-
-> **Redout**: At the start of any of your activations, you may declare a Redout. Permanently reduce your Handling by 1 (minimum 1) for the remainder of this race. For the rest of the race, you may use any movement template regardless of your current Gear. Gear-restriction rules on templates are ignored; G-Force costs on High-G templates still apply.
->
-> You may declare Redout as many times as you like across the race. Each declaration costs another point of Handling. A driver who has redded out three times is rolling a single Skid Dice and taking corners like a physics demonstration.
-
-> ##### SURVIVAL TIP
-> Redout is what you reach for in the final lap when your only path to a podium is doing things your car was not designed for. Stacking Redouts is what you reach for when you have already decided you are going to win or detonate.
-
----
-
-### RED MIST
-
-The final and only true exit from G-Zero. A pilot under sustained extreme G eventually stops being a pilot and becomes a fine red mist coating the inside of their cockpit. Some pilots reach this state by accident. The legendary ones reach it on purpose, on the final straight, with their nose pointed at the Finish Gate.
-
-> **Red Mist**: Once per race, at the start of one of your activations, only if you are currently in Gear 5 or Gear 6. You must add two Long Straight templates in any order, to your normal template for this activation. You roll no Skid Dice for this activation and gain no G-Force from the Red Mist movement itself. Collisions caused along the path are resolved normally for the other cars involved; you yourself ignore all G-Force from those collisions.
->
-> At the end of this activation, regardless of your position on the track, your driver dies. The car is removed from the game.
->
-> **Exception**: if you crossed the Finish Gate on your final lap during this activation, you are recorded as a Finisher. The result book will list your placing. Whether the obituary calls you a winner depends on where the other cars are.
-
-> ##### NOTE
-> Red Mist is intentionally extreme. It is the only mechanic in G-Zero that permanently removes a car from the game. If you would rather not play with the possibility of in-race deletion, leave Red Mist out. The rest of the game works fine without it.
-
 \page
 
 ---
@@ -402,6 +505,10 @@ The final and only true exit from G-Zero. A pilot under sustained extreme G even
 > Whether G-Zero ever expands beyond one car type is an open question. If vehicle classes are added, they will be differentiated through Altitude performance profiles rather than Hull/Weapon loadouts. This section is in development.
  <br>
 
+> ##### BURST TEMPLATE EFFECT TABLE
+> A formal table mapping each material category to specific Burst Template effects is in development. Until then, use player consensus during track setup or in the moment.
+ <br>
+
 \page
 
 ---
@@ -410,21 +517,29 @@ The final and only true exit from G-Zero. A pilot under sustained extreme G even
 
 ### THE HOVERCAR
 
-| Max Gear | Handling | Weight | Hull | Crew |
+| Max Gear | Handling (start) | Weight | Hull | Crew |
 |:---:|:---:|:---:|:---:|:---:|
 | 6 | 4 | Light | None | None |
+
+Handling reduces by 1 with every Tumble or Redout (minimum 1).
 
 ---
 
 ### ACTIVATION ORDER
 
-Pole Position activates first, then clockwise. Qualified vehicles must activate (no passing). Pole Position passes clockwise each round.
+Pole Position activates first, then initiative order (race standings, leader to last). Qualified vehicles must activate or declare Delayed Activation. No passing turns.
+
+Pole Position passes to the current race leader at end of each round.
+
+**Delayed Activation**: secretly choose template, name a lower-initiative target vehicle, activate immediately after that vehicle moves (before its cleanup effects).
 
 Altitude is declared secretly at the start of each Gear Phase. Reveal when activated or when a collision occurs.
 
 ---
 
 ### SKID DICE
+
+Roll up to Handling dice (max 4). Resolve in order:
 
 | Result | Effect |
 |:---|:---|
@@ -449,7 +564,7 @@ Altitude is declared secretly at the start of each Gear Phase. Reveal when activ
 | Low -> Mid | +2 Dampeners | none |
 | High -> Mid | +2 Dampeners | none |
 
----
+\page
 
 ### GRAZE TABLE (DIFFERENT ALTITUDE)
 
@@ -466,7 +581,12 @@ Light = +1 G. Medium = +2 G. Heavy = +3 G.
 
 ---
 
-### FULL COLLISION (SAME ALTITUDE)
+### FULL COLLISION
+
+Car vs Car (same altitude): standard Head-On / T-Bone / Tailgate.
+Car vs Soft Object (bushes, persons, paper stands): Tailgate + Small Burst.
+Car vs Medium Solid (billboards, barrels, small containers): T-Bone + Large Burst.
+Car vs Heavy Solid (walls, hard gates, pillars, large containers): Head-On + Extra-Large Burst.
 
 | Reaction | G-Force | Can Spin Opponent? |
 |:---|:---:|:---:|
@@ -475,25 +595,60 @@ Light = +1 G. Medium = +2 G. Heavy = +3 G.
 
 ---
 
+### BURST TEMPLATE EFFECTS
+
+Burst Template effects depend on object material. Possible outcomes: G-Force gain/loss, Gear gain/loss, Tumble. Formal table in development. Use player consensus until then.
+
+---
+
 ### BLACKOUT
 
 Triggered at 6+ G-Force tokens at end of activation.
-1. Resolve Tumble. Roll 1D6 for direction (60-degree wedges). Distance by Gear at Blackout: 1 to 2 = Short, 3 to 4 = Medium, 5 to 6 = Long.
-2. Cars caught in Tumble path gain G-Force equal to Tumble length and may be pivoted up to 90 degrees by the active player. No Evade or Brace reactions allowed.
-3. Roll 1D6: on 1 to 2, gain Recovery token (skip next qualifying activation).
-4. Reset to Gear 1, Altitude Mid, 0 G-Force. Facing stays as the Tumble direction.
+
+1. If at Handling 1: roll Emergency Dampener Check first (2+ / 4+ / 6+ / dead).
+2. Roll 1D6: on 1 or 2 = Tumble; on 3 to 6 = Recovery only.
+3. Reset to Gear 1, Altitude Mid, 0 G-Force.
 
 ---
 
-### REDOUT (OPTIONAL)
+### TUMBLE
 
-Declare at start of activation. Permanent -1 Handling for the rest of the race. Ignore Gear-restrictions on templates. Stackable across multiple declarations.
+Triggers: Blackout (1 or 2), Burst Template, other effects.
+
+1. Direction: 1D6 -> six 60-degree wedges (1=fwd, 2=fwd-right, 3=back-right, 4=back, 5=back-left, 6=fwd-left).
+2. Distance: Short (Gear 1 to 2), Medium (Gear 3 to 4), Long (Gear 5 to 6).
+3. Cars caught: gain G-Force = Tumble length, pivoted up to 90 degrees by active player, no reactions.
+4. Tumble Aftermath: -1 Handling permanently (min 1) + Recovery token.
 
 ---
 
-### RED MIST (OPTIONAL)
+### RECOVERY
 
-Once per race, start of activation, Gear 5 or 6 only. Add two Long Straight templates in any order to your normal template. No Skid Dice, no self-inflicted G-Force. End of activation: driver dies, car removed. If you crossed the Finish Gate on your final lap during this activation: recorded as a Finisher.
+Skip next qualifying activation. Triggered by Blackout (3 to 6) or any Tumble. Does not stack.
+
+---
+
+### DRIVER ACTIONS
+
+**Redout**: Declare at start of activation. -1 Handling permanently. Ignore Gear-restrictions on templates for rest of race. Stackable. Not available at Handling 1.
+
+**Red Mist**: Once per race, start of activation, Gear 5 or 6 only. Add two Long Straight templates in any order to your normal template. No Skid Dice, no self-inflicted G-Force. End of activation: driver dies, car removed. Finish-Gate exception: recorded as Finisher if final lap completed. Not available at Handling 1.
+
+---
+
+### EMERGENCY DAMPENER CHECK
+
+When a driver at Handling 1 Blacks Out, roll before any other effects:
+
+| Check Number | Survive on |
+|:---|:---:|
+| 1st | 2+ |
+| 2nd | 4+ |
+| 3rd | 6+ |
+| 4th | death, no roll |
+
+Success: resolve Blackout normally (Tumble does NOT take more Handling).
+Failure: driver dies, car removed.
 
 ---
 
