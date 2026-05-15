@@ -380,7 +380,7 @@ When you declare High, you may use movement templates as if your Vector were 1+X
 
 #### GOING MID / STAYING MID
 
-Mid is the recovery and stability zone. No bonus movement. No Vector Check. Just Shift.
+Mid is the recovery and stability zone. No bonus movement. No Vector Check. Just Energy.
 
 | Transition | Bonus |
 |:---|:---:|
@@ -391,7 +391,7 @@ Mid is the recovery and stability zone. No bonus movement. No Vector Check. Just
 These bonus Energy results are added to your Skid Dice pool as free results. You may use them as normal Energy results: activate the Inertial Dampener, change Vector, or remove G-Force tokens.
 
 > ##### SURVIVAL TIP
-> Mid is where you go to clean up. After a chaotic dive or a high-speed High run, returning to Mid gives you Shift to spend on G-Force removal. Learn to use Mid as a planned reset rather than just a fallback.
+> Mid is where you go to clean up. After a chaotic dive or a high-speed High run, returning to Mid gives you Energy to spend on G-Force removal. Learn to use Mid as a planned reset rather than just a fallback.
 
 ---
 
@@ -531,7 +531,7 @@ Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written,
 # COMING SOON
 
 > ##### SPONSORS
-> Sponsor cards will introduce asymmetric car bonuses tied to the Altitude system. A Low-specialist Sponsor might reduce the G-Force cost of Low transitions. A High-specialist might start each race with free Shift already banked. This section is in development.
+> Sponsor cards will introduce asymmetric car bonuses tied to the Altitude system. A Low-specialist Sponsor might reduce the G-Force cost of Low transitions. A High-specialist might start each race with free Energy already banked. This section is in development.
 <br>
 
 > ##### FEATS
