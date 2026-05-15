@@ -280,7 +280,7 @@ When a driver at Handling 1 Blacks Out, before any other Blackout effects resolv
 
 **On a success**, resolve the Blackout normally. A Tumble result from this Blackout does NOT cause further Handling loss, because the driver is already at the minimum.
 
-**On a failure**, the driver dies.
+**On a failure**, the driver dies and the car becopmes a *Dead Stick*
 
 **Dead Stick**: When a driver dies, do not remove the car immediately. At the start of each subsequent Vector Phase equal to its last active Vector, the car activates automatically: it moves the Long Straight template directly forward, rolls no Skid Dice, and gains no G-Force. It has no pilot and no Inertial Dampener. It simply continues on its last thrust vector.
  
@@ -288,7 +288,7 @@ The Dead Stick car persists until it collides with a wall or Heavy Solid Object,
  
 If the Dead Stick car passes through a Gate, the passage does not count. The race is over for that cockpit. 
 
-While a "Red Mist" maneuver is a glorious, terminal sacrifice—an apex predator burning out in a final, blinding surge of speed to clinch victory—dying to a simple system failure is a loser’s end. One is a legend written in fire; the other is just expensive debris drifting through the track, a hollow shell of "Alloy Pizza" waiting for the inevitable impact.
+While a "Red Mist" maneuver is a glorious, terminal sacrifice - an ace racer burning out in a final, blinding surge of speed to clinch victory—dying a pilot dying to a simple system failure is a loser’s end. One is a legend written in fire; the other is just expensive debris drifting through the track, a hollow shell of waiting for the inevitable impact to turn it into an "Alloy Pizza".
 
 > ##### DESIGN NOTE
 > Consider a Perk that allows an AI to take over. Alternatively, as a baseline rule, "Dead Stick" cars could bounce upon impact until they either collapse into a "pizza of alloy" due to total dampener failure (on a D6 roll of 1) or explode in a shockwave (on a D6 roll of 6).
@@ -384,11 +384,11 @@ Mid is the recovery and stability zone. No bonus movement. No Vector Check. Just
 
 | Transition | Bonus |
 |:---|:---:|
-| Mid to Mid | +1 Shift result |
-| Low to Mid | +2 Shift results |
-| High to Mid | +2 Shift results |
+| Mid to Mid | +1 Energy result |
+| Low to Mid | +2 Energy results |
+| High to Mid | +2 Energy results |
 
-These bonus Shift results are added to your Skid Dice pool as free results. You may use them as normal Shift results: activate the Inertial Dampener, change Vector, or remove G-Force tokens.
+These bonus Energy results are added to your Skid Dice pool as free results. You may use them as normal Energy results: activate the Inertial Dampener, change Vector, or remove G-Force tokens.
 
 > ##### SURVIVAL TIP
 > Mid is where you go to clean up. After a chaotic dive or a high-speed High run, returning to Mid gives you Shift to spend on G-Force removal. Learn to use Mid as a planned reset rather than just a fallback.
@@ -432,7 +432,7 @@ The moving car is the "aggressor" regardless of intent.
 High Altitude is the dominant position. Flying High makes a driver dangerous as an aggressor and very resilient as a target. Low altitude makes a car fast and fragile.
 
 > ##### SCALE NOTE
-> These cars are travelling at 300 to 1800 km/h. A graze is not a nudge. The reason a Heavy result is only 3 G-Force tokens is that at these speeds, the collision itself is measured in milliseconds. Debris from a destroyed object hangs in the air for only a few seconds, but at these velocities a few seconds is a full lap for the pack behind. This is why Burst Templates persist for the duration of the round (see Burst Templates below).
+> These cars are travelling at 300 to over 2000 km/h. A graze is not a nudge. The reason a Heavy result is only 3 G-Force tokens is that at these speeds, the collision itself is measured in milliseconds. Debris from a destroyed object hangs in the air for only a few seconds, but at these velocities a few seconds is a full lap for the pack behind. This is why Burst Templates persist for the duration of the round (see Burst Templates below).
 
 ---
 
@@ -608,9 +608,9 @@ Roll up to Handling dice (max 4). Resolve in order:
 | High -> High | Templates as V-(1+X) | pay X G |
 | Mid -> High | Templates as V-(1+X) | pay X G, +1 Vector Check |
 | Low -> High | Templates as V-(1+X), drop 1 Vector | pay X G |
-| Mid -> Mid | +1 Shift | none |
-| Low -> Mid | +2 Shift | none |
-| High -> Mid | +2 Shift | none |
+| Mid -> Mid | +1 Energy | none |
+| Low -> Mid | +2 Energy | none |
+| High -> Mid | +2 Energy | none |
 
 ---
 
