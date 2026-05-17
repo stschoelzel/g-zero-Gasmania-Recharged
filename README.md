@@ -618,7 +618,7 @@ Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written,
 > ##### FEATS
 > Feats are persistent upgrades a pilot learns, earns, and carries. They are not modifications to the shell - the shell is replaceable. A pilot who survives long enough to develop real instincts is considerably harder to manufacture. The Boards are aware of this. The pilots are not supposed to be.
 >
-> Feats live and die with the pilot. A dead pilot's Feats die with them. Handling lost during a race does not return between races; a pilot who has been pushing their limits for three seasons feels it. What they gain instead is pattern recognition, timing, and the kind of calm that only comes from having already seen the worst the track can do.
+> Feats live and die with the pilot. A dead pilot's Feats die with them. Handling lost during a race does not just return between races; a pilot who has been pushing their limits for three seasons feels it. What they gain instead is pattern recognition, timing, and the kind of calm that only comes from having already seen the worst the track can do.
 >
 > Feats fall into three categories. **Inherent** Feats are things a pilot simply is - neurology, physiology, the kind of talent that cannot be taught and is therefore deeply unfair. **Experience** Feats are things a pilot has learned to do through repetition, consequence, and survival. **Implant** Feats are purchased upgrades to the biological hardware; subscription-based in most enclaves, owned outright by almost nobody. Implants are the only Feats that can theoretically be transferred to another pilot. The surgery required to do so is not covered by standard race insurance.
 >
