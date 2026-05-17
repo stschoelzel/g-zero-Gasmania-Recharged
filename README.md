@@ -4,7 +4,7 @@
 *G-Zero is an unofficial, non-commercial fan hack. Gaslands: Refuelled is copyright Mike Hutchinson / Osprey Games 2019. No challenge to copyright is intended.*
 <br>
 
-> ##### The world did not end; there was no money in it.
+##### The world did not end; there was no money in it.
 
 What happened instead is that the corps outlived the states, the states outlived the idea of states, and then nothing really changed except the letterhead. The Few run the enclaves. The enclaves run the infrastructure. The infrastructure runs on debt, and the debt runs on the rest.
 
