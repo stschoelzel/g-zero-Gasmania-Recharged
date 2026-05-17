@@ -1,4 +1,4 @@
-# G-Zero: Gasmania Recharged
+# G-Zero
 ## A GASLANDS: REFUELLED HACK
 
 *G-Zero is an unofficial, non-commercial fan hack. Gaslands: Refuelled is copyright Mike Hutchinson / Osprey Games 2019. No challenge to copyright is intended.*
