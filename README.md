@@ -45,7 +45,7 @@ Speed is the one thing that does not Null-Framee who owns it.
 
 ---
 
-### VELOCITY REFERENCE
+### VELOCITY VECTOR
 
 The **Velocity Vector** (abbreviated V1 through V6) describes a Null-Frame's current 
 thrust band. This is not a gear ratio. It is the output state of the drive 
@@ -325,12 +325,18 @@ When a pilot at Handling 1 Blacks Out, before any other Blackout effects resolve
 **On a failure**, the pilot dies and the Null-Frame becopmes a *Dead Stick*
 
 **Dead Stick**: When a pilot dies, do not remove the Null-Frame immediately. At the start of each subsequent Vector Phase equal to its last active Vector, the Null-Frame activates automatically: it moves the Long Straight template directly forward, rolls no Skid Dice, and gains no G-Force. It has no pilot and no Inertial Dampener. It simply continues on its last thrust vector.
- 
-The Dead Stick Null-Frame persists until it collides with a wall or Heavy Solid Object, at which point it is removed. Collisions with other Null-Frames are resolved normally for those Null-Frames; the Dead Stick Null-Frame itself ignores all G-Force and reactions. There is nobody left to react.
- 
-If the Dead Stick Null-Frame passes through a Gate, the passage does not count. The race is over for that cockpit. 
 
-While a "Red Mist" maneuver is a glorious, terminal sacrifice - an ace racer burning out in a final, blinding surge of speed to clinch victory—dying a pilot dying to a simple system failure is a loser’s end. One is a legend written in fire; the other is just expensive debris drifting through the track, a hollow shell of waiting for the inevitable impact to turn it into an "Alloy Pizza".
+Collisions with other Null-Frames are resolved normally for those Null-Frames; the Dead Stick Null-Frame itself ignores all G-Force and reactions. There is nobody left to react.
+
+When the Dead Stick strikes a wall or Heavy Solid Object, roll 1D6:
+
+- **1**: the Emergency Dampeners fire their final function. The frame bleeds velocity and comes to a stop. Remove it from the track.
+- **2-5**: the frame bounces. Roll direction as per Tumble direction rules and continue.
+- **6**: the frame is structurally compromised. Roll 2D6. On a **pair**: roll 1D6 - on 1-3 it folds into an Alloy Pizza (frame gone, no further effect); on 4-6 it explodes (frame gone; place a Large Burst Template at the point of impact). On any other result the frame shudders to a stop as on a 1.
+
+A Dead Stick that leaves the track boundary entirely is removed immediately.
+
+If a Dead Stick passes through a Gate, the passage does not count. The race is over for that cockpit. A Red Mist manoeuvre is a deliberate sacrifice - an ace burning out on the final straight with their nose pointed at the Finish Gate. A pilot who dies to a system failure leaves behind expensive debris and a frame that the track will finish off in its own time. One is a legend written in fire. The other is just an Alloy Pizza waiting to happen.
 
 > ##### DESIGN NOTE
 > Consider a Perk that allows an AI to take over. Alternatively, as a baseline rule, "Dead Stick" Null-Frames could bounce upon impact until they either collapse into a "pizza of alloy" due to total dampener failure (on a D6 roll of 1) or explode in a shockwave (on a D6 roll of 6).
@@ -633,6 +639,85 @@ Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written,
 > **Hardwired Reflexes** *(Implant)* - The pilot's reaction latency has been surgically reduced to below 80 milliseconds. Once per race, the pilot may cancel one G-Force result after it is rolled. The subscription renewal notice arrives in the cockpit feed during qualifying. It is always bad timing.
 
 ---
+
+# WAYS TO PLAY
+
+G-Zero is a racing game first. Everything else is optional architecture built on top of that. Start with a Single Race. Add layers when the table is ready for them.
+
+---
+
+## SINGLE RACE
+
+One track. One result. Done. Set up a circuit, place your Null-Frames on the starting grid, and race. All Null-Frames start at V1, Altitude Mid, Handling 4. First pilot through the Finish Gate on the final lap wins. Recommended for first games; use Ghost Mode (see Optional Rules) to keep the focus on template selection and Vector management.
+
+---
+
+## TOURNAMENT
+
+A series of Single Races with no persistent state between them. Pilots and Frames reset completely between events. Score points per finishing position across X events; most points at the end wins. Clean, competitive, no bookkeeping. The pilots do not carry their bruises. This is the format the Boards prefer for broadcast. Nothing inconvenient carries over.
+
+---
+
+## SEASON
+
+The full game. Pilots accumulate damage. Frames get destroyed. The corp bleeds credits until it cannot field a legal entry, and then it is over.
+
+### THE ROSTER
+
+Each corp fields between **1 and 3 Null-Frames** and up to **5 Pilots**. More pilots than frames means rotation is possible; it also means salary costs, competing agendas, and the question of who gets benched when the season gets ugly. A corp must field at least **1 Null-Frame with 1 Pilot** in every event or it is disqualified from that round. Miss enough rounds and the Boards revoke the licence.
+
+Frames belong to the corp. Pilots belong to themselves, technically, though the contracts say otherwise.
+
+### RESOURCES
+
+A single shared pool covers everything: Frame acquisition and repair, entry fees, pilot contracts, medical, and training time. How the corp spends it is the season-level game. Pilots have their own priorities. The rules do not model this fully; a single line in the contract covers it: *"Pilots are not equipment. Usually."*
+
+### FRAME LOSS
+
+When a Dead Stick strikes a wall or Heavy Solid Object, roll 1D6:
+
+- **1**: the Emergency Dampeners fire their final function. The frame bleeds velocity and comes to a stop. Remove it from the track; it is salvage, not wreckage.
+- **2-5**: the frame bounces. Roll direction as per Tumble direction rules. It continues activating each round at its last Vector, moving the Long Straight template forward. It will hit something again.
+- **6**: the frame is structurally compromised. Roll 2D6. If the result is a **pair**, the frame is destroyed - roll 1D6 to determine how: on a 1-3 it folds into an **Alloy Pizza** (frame gone, no further effect); on a 4-6 it **explodes** (frame gone; place a Large Burst Template centred on the point of impact, resolved immediately). If the result is **not a pair**, the frame shudders to a stop as on a 1 result.
+
+A frame is also permanently lost when a pilot triggers **Red Mist**, or when a Dead Stick leaves the track boundary entirely.
+
+Replacing a lost frame costs resources. A frame that stops on the track rather than being destroyed may be recoverable between events, at the corp's expense and the referee's discretion.
+
+### BETWEEN EVENTS
+
+After each event, every pilot recovers **2 Handling automatically** regardless of what the corp does. Beyond that, the corp can assign each pilot one activity for the inter-event period.
+
+| Assignment | Handling Recovery | Other Effect |
+|:---|:---:|:---|
+| Resting | +2 | None |
+| Training | +0 | Eligible for Feat progress (future content) |
+| Medical | +1 | Clears a specific persistent condition or injury (future content) |
+| "Dealt with" | - | Pilot leaves roster |
+
+A pilot who did not race recovers at the Resting rate by default unless the corp assigns them otherwise. Bench time is not free time; it is managed time. What pilots do with the hours the corp does not control is their own business, and occasionally the corp's problem.
+
+---
+
+## RACE FORMATS
+
+Race formats can be used in any mode - Single Race, Tournament, or Season.
+
+### CIRCUIT
+
+The standard format. A closed track with Gates placed at regular intervals. Null-Frames complete **3 laps** (adjustable); first through the Finish Gate wins. Positions behind first are recorded for points or campaign consequences.
+
+### LONG TRACK
+
+A single-run format on an open or linear course. No second lap; no recovery time. Pilots get one pass through the full track length. Finishing position is everything. The track does not forgive and does not repeat itself.
+
+### GATE HUNT
+
+Gates are placed out of the expected racing line, or in irregular sequences that require deliberate routing decisions. Passing a Gate out of sequence still does not count. The challenge is not raw speed but navigation under pressure: the fastest path is not always the correct one.
+
+### SPEED TRIAL
+
+Scoring is based on peak velocity output across the event. Count the number of **Long Straight templates** each pilot places during the race; the pilot with the highest count wins regardless of finishing position. A pilot who plays it safe at V3 all race and survives cannot win. A pilot who hits V6, triggers a Sonic Boom, and Blacks Out three times might. This format rewards aggression and punishes conservation; use it in a Season context and watch what it does to Handling totals across the roster.
 
 # QUICK REFERENCE
 
