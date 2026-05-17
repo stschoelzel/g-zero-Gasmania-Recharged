@@ -39,7 +39,7 @@ Speed is the one thing that does not care who owns it.
 > ---
 >
 > ##### VIBE & SOUNDTRACK
-> F-Zero GX. WipeOut HD. Extreme G3. Speed Racer (2008).
+> F-Zero GX. WipeOut HD. Extreme G. Speed Racer (2008).
 > Perturbator, Crystal Castles, Leftfield, Aphex Twin.
 > If the walls feel closer and the track feels faster, you are in the right headspace.
 
@@ -58,7 +58,7 @@ The **Velocity Vector** (abbreviated V1 through V6) describes a car's current th
 | V5 | ~1.150 | ~319 | "Transonic turbulence. Rattling the cage." |
 | V6 | ~1.900 | ~528 | "Mach 1.5+. Beyond the veil. Dampeners screaming." |
 
-The fastest possible Speed is the **Red Mist** Manouver at V6, wich produces a brief burst in excess of 2400 km/h, approximately Mach 2. 
+The fastest possible speed is the **Red Mist** Manoeuvre at V6, which produces a brief burst in excess of 2400 km/h, 666 m/s, or approximately Mach 2.
 
 ---
 
