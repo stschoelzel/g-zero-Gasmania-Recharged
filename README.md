@@ -14,9 +14,9 @@ For the rest: the sprawl, the hubs, the artificial dirt. High-tech, low-life. Th
 
 Into this, somebody invented zero gravity.
 
-The Boards saw what the Colosseum did for Rome and updated the formula. The G-Zero league is clean, beautiful, and carefully regulated — a pure sport where the best pilots from any hub push the limits of physics in machines that cost more than most districts do. Broadcast simultaneously to every screen in every timezone. The commentators are excellent. The crashes are spectacular. The drama is delightful.
+The Boards saw what the Colosseum did for Rome and updated the formula. The G-Zero league is clean, beautiful, and carefully regulated - a pure sport where the best pilots from any hub push the limits of physics in machines that cost more than most districts do. Broadcast simultaneously to every screen in every timezone. The commentators are excellent. The crashes are spectacular. The drama is delightful.
 
-Nobody is supposed to die in G-Zero. The insurance premiums alone guarantee the Boards pay attention. That said, blacking out at 1000 km/h with a wall in front of you is not a fun experience, and the waivers pilots sign before their first qualifying lap would take a corporate lawyer three days to read. But a cockpit painted red, perfectly lit — that is what really pulls the numbers.
+Nobody is supposed to die in G-Zero. The insurance premiums alone guarantee the Boards pay attention. That said, blacking out at 1000 km/h with a wall in front of you is not a fun experience, and the waivers pilots sign before their first qualifying lap would take a corporate lawyer three days to read. But a cockpit painted red, perfectly lit - that is what really pulls the numbers.
 
 The tracks are everywhere. Some float above the wastelands. Suspended circuits, kilometres of engineered tarmac hanging in the air above the places the Boards decided were not worth fixing. The rest watches from below. The feeds make it beautiful. Sometimes the race is in your backyard; someone could get hit. The feeds make it beautiful.
 
