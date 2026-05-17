@@ -8,13 +8,13 @@
 
 What happened instead is that the corps outlived the states, the states outlived the idea of states, and then nothing really changed except the letterhead. The Few run the enclaves. The enclaves run the infrastructure. The infrastructure runs on debt, and the debt runs on the rest.
 
-For the few, it worked out. Arcologies with vertical gardens and clean water and a real sky over real earth with real plants. Post-scarcity pockets, well-managed, carefully photographed for the feeds. Proof that the system works.
+For the few, it worked out. Arcologies with vertical gardens and clean water and a real sky over real earth with real plants. Post-sNull-Framecity pockets, well-managed, Null-Frameefully photographed for the feeds. Proof that the system works.
 
 For the rest: the sprawl, the hubs, the artificial dirt. High-tech, low-life. The sky above the blocks is the colour of a feed that has nothing to broadcast. Neural implants run on subscription models. Your air filter is a brand name. Your body is a liability you have not finished paying off.
 
 Into this, somebody invented zero gravity.
 
-The Boards saw what the Colosseum did for Rome and updated the formula. The G-Zero league is clean, beautiful, and carefully regulated - a pure sport where the best pilots from any hub push the limits of physics in machines that cost more than most districts do. Broadcast simultaneously to every screen in every timezone. The commentators are excellent. The crashes are spectacular. The drama is delightful.
+The Boards saw what the Colosseum did for Rome and updated the formula. The G-Zero league is clean, beautiful, and Null-Frames are carefully regulated - a pure sport where the best pilots from any hub push the limits of physics in machines that cost more than most districts do. Broadcast simultaneously to every screen in every timezone. The commentators are excellent. The crashes are spectacular. The drama is delightful.
 
 Nobody is supposed to die in G-Zero. The insurance premiums alone guarantee the Boards pay attention. That said, blacking out at 1000 km/h with a wall in front of you is not a fun experience, and the waivers pilots sign before their first qualifying lap would take a corporate lawyer three days to read. But a cockpit painted red, perfectly lit - that is what really pulls the numbers.
 
@@ -24,7 +24,7 @@ The pilots know what they are. They know what the crowds are for. Some of them m
 
 Most of them fly anyway, because the alternative is the sprawl - and they are very, very good at this.
 
-Speed is the one thing that does not care who owns it.
+Speed is the one thing that does not Null-Framee who owns it.
 
 
 > ##### DESIGN INTENT
@@ -47,7 +47,10 @@ Speed is the one thing that does not care who owns it.
 
 ### VELOCITY REFERENCE
 
-The **Velocity Vector** (abbreviated V1 through V6) describes a car's current thrust band. This is not a gear ratio. It is the output state of the drive system, a number on the cockpit display that pilots use to communicate speed in terms the body can understand. The numbers below are approximate. 
+The **Velocity Vector** (abbreviated V1 through V6) describes a Null-Frame's current 
+thrust band. This is not a gear ratio. It is the output state of the drive 
+system, a number on the cockpit display that pilots use to communicate speed 
+in terms the body can understand. The numbers below are approximate.
 
 | Vector | km/h | m/s | Vibe |
 |:---|:---:|:---:|:---|
@@ -58,25 +61,38 @@ The **Velocity Vector** (abbreviated V1 through V6) describes a car's current th
 | V5 | ~1.150 | ~319 | "Transonic turbulence. Rattling the cage." |
 | V6 | ~1.900 | ~528 | "Mach 1.5+. Beyond the veil. Dampeners screaming." |
 
-The fastest possible speed is the **Red Mist** Manoeuvre at V6, which produces a brief burst in excess of 2400 km/h, 666 m/s, or approximately Mach 2.
+The fastest possible speed is the **Red Mist** Manoeuvre at V6, which produces 
+a brief burst in excess of 2400 km/h, 666 m/s, or approximately Mach 2.
 
+At these velocities, the cornering forces are not uncomfortable. They are 
+lethal. A tight corner at V3 produces G-loads that would destroy an 
+unprotected body in under a second, and at V6 there is no second. The Inertial Dampener is the only reason a pilot at speed is a pilot and not a pressurised liquid. 
+
+This is what Energy management means. Every ⚡ result on your Skid Dice is 
+the drive system routing surplus power back to the cockpit; power you can 
+spend on the Dampener to keep the physics from collecting what they are owed. 
+Run out of Energy, and G-Force tokens accumulate. Let them accumulate long 
+enough, and the cockpit is your casket.
 ---
 
-# THE HOVERCAR
+# THE NULL-FRAMES
 
-**G-Zero uses a single vehicle type.** All cars are identical in stats. Variety comes from the Altitude system, your driving decisions, and (eventually) Sponsor perks.
+**G-Zero uses a single vehicle type.** All vehicels are identical in stats. Variety comes from the Altitude system, your driving decisions, and (eventually) Sponsor perks.
+
+
+> Strip a G-Zero craft down to what keeps the pilot alive and you find three things: a zero-gravity induction array, a thrust package, and an Inertial Dampener. Everything else - the bodywork, the fairings, the sponsor livery, the aerodynamic surfaces that do nothing at Mach 1.5 - is architecture for the cameras. The cockpit sits at the exact geometric centre of the Dampener field. The pilot sits at the exact geometric centre of the cockpit. Every engineering decision made in the construction of a Null-Frame works outward from that point. The human is the load-bearing structure. Everything else is fluff.
 
 > ##### DIFFERENCE FROM GASLANDS
-> Gaslands uses many vehicle types with different Hull, Handling, Max Vector, Weight, and Crew values. G-Zero removes all of that. There is one car. Sponsors and Feats (coming in a future supplement) will add the differentiation back in a cleaner way.
+> Gaslands uses many vehicle types with different Hull, Handling, Max Vector, Weight, and Crew values. G-Zero removes all of that. There is one Null-Frame. Sponsors and Feats (coming in a future supplement) will add the differentiation back in a cleaner way.
 
 | Stat | Value |
 |:---|:---:|
 | Max Vector | V6 |
 | Handling | 4 |
 
-**No Hull Points.** "Cars cannot be destroyed by ordinary play. The only ways to leave the race are voluntary retirement, being lapped beyond recovery, dying in an Emergency Dampener Check, or triggering Red Mist.
+**No Hull Points.** "Null-Frames cannot be destroyed by ordinary play. The only ways to leave the race are voluntary retirement, being lapped beyond Override, dying in an Emergency Dampener Check, or triggering Red Mist.
 
-A dead pilot can't compete in any other races—which becomes relevant when there are feats, because a dead driver has no feats."
+A dead pilot can't compete in any other races—which becomes relevant when there are feats, because a dead pilot has no feats."
 
 **Handling can drop during a race.** Each Tumble or Redout permanently reduces Handling by 1, to a minimum of 1. See Tumble and Handling Loss below.
 
@@ -88,7 +104,7 @@ G-Zero uses two trackable resources. Both are visible on your cockpit display at
 
 ### Energy ⚡
 
-**Energy** is everything. It's what powers your engines and it's what's keeping you alive. And you should manage it carefully: pilots can route energy through the cockpit systems freely.
+**Energy** is everything. It's what powers your engines and it's what's keeping you alive. And you should manage it Null-Frameefully: pilots can route energy through the cockpit systems freely.
 
 Energy is generated by rolling a **⚡** on Skid Dice. It is spent to activate the **Inertial Dampener**, to change your Velocity Vector, or to remove accumulated G-Force.
 Unspent Energy is immediately lost.
@@ -97,17 +113,17 @@ Track Energy using tokens marked with a lightning bolt, or on a small dial.
 
 ### G-FORCE (G)
 
-**G-Force tokens** are hazards. They accumulate from Vector changes, High-G templates, bad Skid Dice results, Altitude transitions, and collisions. A car with 6 or more G-Force tokens at the end of any activation immediately **Blacks Out**.
+**G-Force tokens** are hazards. They accumulate from Vector changes, High-G templates, bad Skid Dice results, Altitude transitions, and collisions. A Null-Frame with 6 or more G-Force tokens at the end of any activation immediately **Blacks Out**.
 
-The **Inertial Dampener** is the system that clears G-Force. You activate it by spending Energy. Without Energy coming in, G-Force builds until the driver goes dark.
+The **Inertial Dampener** is the system that clears G-Force. You activate it by spending Energy. Without Energy coming in, G-Force builds until the pilot goes dark.
 
-Track G-Force on your car using a dial, dice, or tokens marked **G**.
+Track G-Force on your Null-Frame using a dial, dice, or tokens marked **G**.
 
 ---
 
 # CORE RULES
 
-G-Zero uses the Gaslands: Refuelled movement and activation system. The core loop is unchanged: Vector Phases activate in order, each car picks a template and rolls Skid Dice, G-Force tokens accumulate, Blackouts happen.
+G-Zero uses the Gaslands: Refuelled movement and activation system. The core loop is unchanged: Vector Phases activate in order, each Null-Frame picks a template and rolls Skid Dice, G-Force tokens accumulate, Blackouts happen.
 
 The following is a summary of the core rules as they function in G-Zero. For full detail on anything not covered here, refer to Gaslands: Refuelled.
 
@@ -152,9 +168,9 @@ At the **start of each Vector Phase**, every player with a qualified vehicle sec
 
 **Altitude is revealed** when:
 - It is that player's turn to activate (or their Delayed Activation resolves), or
-- Their car is involved in a collision before their activation, in which case both drivers involved must immediately reveal their Altitude to resolve the collision.
+- Their Null-Frame is involved in a collision before their activation, in which case both pilots involved must immediately reveal their Altitude to resolve the collision.
 
-Once revealed, Altitude is public for the remainder of that activation. A driver's Altitude persists until their next activation.
+Once revealed, Altitude is public for the remainder of that activation. A pilot's Altitude persists until their next activation.
 
 ---
 
@@ -182,7 +198,7 @@ After placing the template, the active player rolls Skid Dice equal to current H
 
 | Result | Effect |
 |:---|:---|
-| **Energy** ⚡ | Spend to: activate the Inertial Dampener (cancel one G-Force, Drift, or Spin result); OR change Vector by +/-1 (costs 1 G-Force token); OR remove 1 G-Force token from your car |
+| **Energy** ⚡ | Spend to: activate the Inertial Dampener (cancel one G-Force, Drift, or Spin result); OR change Vector by +/-1 (costs 1 G-Force token); OR remove 1 G-Force token from your Null-Frame |
 | **G-Force** G | Gain 1 G-Force token. Cannot be cancelled. |
 | **Drift** | Move to the Drift exit point on the template. Gain 1 G-Force token. |
 | **Spin** | Pivot up to 90 degrees at Final Position. Gain 1 G-Force token. |
@@ -196,16 +212,16 @@ You do not have to roll all your dice. If you are sitting on 4 or 5 G-Force toke
 
 ### SONIC BOOM
 
-When a driver switches to V6, their vehicle breaks the sound barrier. The resulting shockwave is not optional and cannot be suppressed. Physics does not negotiate.
+When a pilot switches to V6, their vehicle breaks the sound barrier. The resulting shockwave is not optional and cannot be suppressed. Physics does not negotiate.
 
-**On the first activation after switching to V6**, the active player must place a **Sonic Boom Shockwave** template. This is a Large Burst Template placed directly behind the vehicle, oriented along its direction of travel. The active player chooses whether to place it at the **start of movement** (before the normal template is placed) or at the **end of movement** (after the car has reached its final position). Either way, the template is removed at the end of this activation.
+**On the first activation after switching to V6**, the active player must place a **Sonic Boom Shockwave** template. This is a Large Burst Template placed directly behind the vehicle, oriented along its direction of travel. The active player chooses whether to place it at the **start of movement** (before the normal template is placed) or at the **end of movement** (after the Null-Frame has reached its final position). Either way, the template is removed at the end of this Vector Phase.
 
-The Sonic Boom Shockwave has the following effects on other cars:
+The Sonic Boom Shockwave has the following effects on other Null-Frames:
 
-- **A car that activates while any part of its base overlaps the Shockwave** must roll additional Skid Dice equal to its current Handling before resolving its own movement. All results apply normally (Drift, Spin, G-Force).
-- **A car that ends its activation with any part of its base overlapping the Shockwave** must immediately roll Skid Dice equal to its current Handling. All results apply normally.
+- **A Null-Frame that activates while any part of its base overlaps the Shockwave** must roll additional Skid Dice equal to its current Handling before resolving its own movement. All results apply normally (Drift, Spin, G-Force).
+- **A Null-Frame that ends its activation with any part of its base overlapping the Shockwave** must immediately roll Skid Dice equal to its current Handling. All results apply normally.
 
-The car that generated the Shockwave is not affected by its own template.
+The Null-Frame that generated the Shockwave is not affected by its own template.
 
 > ##### DESIGN NOTE
 > This mechanic may need tuning. The intent is that V6 is genuinely violent, not just fast, and that a tight pack running at top speed produces real chaos rather than just a speed advantage for the leader. Whether the Handling-worth of extra dice is the right number, and whether start-of-move versus end-of-move placement produces interesting decisions or just a formality, needs table time to confirm. Adjust the template size and dice count freely based on how brutal your table wants V6 to feel.
@@ -215,25 +231,25 @@ The car that generated the Shockwave is not affected by its own template.
 ### BLACKOUT
 
 > ##### DIFFERENCE FROM GASLANDS
-> In Gaslands, a Wipeout can result in a car being Destroyed. In G-Zero, cars are not removed by ordinary Blackouts. A Blackout is what happens when the human inside the cockpit briefly stops being able to fly. Cumulative Blackouts at Handling 1 can eventually kill the driver (see Emergency Dampener Check).
+> In Gaslands, a Wipeout can result in a Null-Frame being Destroyed. In G-Zero, Null-Frames are not removed by ordinary Blackouts. A Blackout is what happens when the human inside the cockpit briefly stops being able to fly. Cumulative Blackouts at Handling 1 can eventually kill the pilot (see Emergency Dampener Check).
 
-When a car would Black Out, resolve the following steps in order:
+When a pilot would Black Out, resolve the following steps in order:
 
-1. **If the driver is at Handling 1**, immediately perform an **Emergency Dampener Check** (see below). If they fail, they die and the car is removed. If they survive, continue.
+1. **If the pilot is at Handling 1**, immediately perform an **Emergency Dampener Check** (see below). If they fail, they die and the Null-Frame is removed. If they survive, continue.
 2. **Roll 1D6** to determine the outcome:
-   - **1 or 2**: the vehicle **Tumbles** (see below). Tumble automatically applies its own Handling loss and Recovery as described in the Tumble section.
-   - **3 to 6**: the driver enters **Recovery** (see below). No Tumble, no Handling loss.
+   - **1 or 2**: the vehicle **Tumbles** (see below). Tumble automatically applies its own Handling loss and Override as described in the Tumble section.
+   - **3 to 6**: the pilot enters **Override** (see below). No Tumble, no Handling loss.
 3. Vector resets to V1.
 4. All G-Force tokens are cleared.
 5. Altitude resets to **Mid**.
 
-The car's facing after step 2 is the facing it keeps. If a Tumble was rolled, that is the Tumble direction. If only Recovery was rolled, the facing is unchanged.
+The Null-Frame's facing after step 2 is the facing it keeps. If a Tumble was rolled, that is the Tumble direction. If only Override was rolled, the facing is unchanged.
 
 ---
 
 ### TUMBLE
 
-A Tumble at V2 is embarrassing. A Tumble at V6 is a lesson in high-energy physics.
+A Tumble at V1 is embarrassing. A Tumble at V6 is a lesson in high-energy physics.
 
 **Tumble can be triggered by:**
 - A Blackout result of 1 or 2.
@@ -242,9 +258,9 @@ A Tumble at V2 is embarrassing. A Tumble at V6 is a lesson in high-energy physic
 
 Whatever the trigger, the procedure is the same.
 
-**Tumble Direction:** Roll 1D6 to determine which way the car flips. The result maps to one of six 60-degree wedges around the car (1 = directly forward, 2 = forward-right, 3 = back-right, 4 = directly back, 5 = back-left, 6 = forward-left). The car's nose now points in that direction.
+**Tumble Direction:** Roll 1D6 to determine which way the Null-Frame flips. The result maps to one of six 60-degree wedges around the Null-Frame (1 = directly forward, 2 = forward-right, 3 = back-right, 4 = directly back, 5 = back-left, 6 = forward-left). The Null-Frame's nose now points in that direction.
 
-**Tumble Distance:** Based on the Velocity Vector the car was in at the moment of the trigger:
+**Tumble Distance:** Based on the Velocity Vector the Null-Frame was in at the moment of the trigger:
 
 | Vector at Trigger | Tumble Template |
 |:---|:---:|
@@ -252,50 +268,50 @@ Whatever the trigger, the procedure is the same.
 | V3 to V4 | Medium Straight |
 | V5 to V6 | Long Straight |
 
-Place the Tumble template from the car's current position in the rolled direction, then move the car to the end of it.
+Place the Tumble template from the Null-Frame's current position in the rolled direction, then move the Null-Frame to the end of it.
 
-**Tumble Collisions:** Every other vehicle whose base is overlapped by the Tumble template, or whose base the tumbling car ends in contact with, is **caught in the wreckage**. Each affected car gains G-Force tokens equal to the Tumble length:
+**Tumble Collisions:** Any Null-Frame whose base is overlapped by the Tumble template is caught in the debris path and immediately gains G-Force tokens equal to the Tumble length - no reaction, no dodge; the wreckage is already through them before they can respond.
 
 - Short Tumble: +1 G-Force
 - Medium Tumble: +2 G-Force
 - Long Tumble: +3 G-Force
 
-Additionally, each affected car is pivoted up to 90 degrees in a direction chosen by the player whose car Tumbled. Affected cars may not declare an Evade or Brace reaction. Nobody is in the cockpit of an unconscious tumbling hovercar to negotiate with.
+Each Null-Frame caught by the template is additionally pivoted up to 90 degrees in a direction chosen by the player whose Null-Frame Tumbled. If the tumbling Null-Frame ends its movement in contact with another Null-Frame, that collision is resolved separately. A tumbling Null-Frame has no pilot and no Altitude control; its Altitude at the point of impact is uncontrolled. The pilot of the struck Null-Frame may declare any Altitude before the collision resolves; if their declared Altitude differs from the tumbling frame's, resolve as a Graze using the standard Graze table. The tumbling frame's Altitude is revealed after the dodging pilot has declared.
 
-**Tumble Aftermath:** After any Tumble resolves:
-- The tumbling driver **permanently loses 1 Handling** for the remainder of this race (minimum Handling 1).
-- The tumbling driver **enters Recovery**.
+**Tumble Aftermath:** After any Tumble resolves, the tumbling pilot permanently loses 1 Handling for the remainder of this race (minimum Handling 1) and enters Override.
 
 > ##### NOTE
-> A Tumble can chain into walls. If the tumble path lands the car against a wall, that is just a wall. The Tumble does not deflect or stop short. Walls do not gain G-Force tokens. They have ways of objecting.
+> A Tumble can chain into walls. If the tumble path lands the Null-Frame against a wall, that is just a wall. The Tumble does not deflect or stop short. Walls do not gain G-Force tokens. They have ways of objecting.
 
 ---
 
-### RECOVERY
+### OVERRIDE
 
-A driver in **Recovery** skips their next qualifying activation. Mark the car with a Recovery token. The pilot is awake but the cockpit is rebooting, the harness is screaming, and the driver's vision has not yet returned to colour.
+When a pilot blacks out, the shell does not stop. It cannot; at these speeds, an uncontrolled vehicle is a public safety event. Every G-Zero shell carries a Override protocol - a limited autopilot that engages the moment cockpit biosigns drop below threshold. It holds the last declared vector, avoids the worst of the walls, and keeps the shell in the race until the pilot comes back online. The Boards have never officially acknowledged Override exists. Autopilots are not dramatic. Nobody watches a machine keep itself alive. Remote control was proposed once, in a closed session, and the person who proposed it has not proposed anything since.
 
-Recovery is triggered by:
+A Null-Frame in Override skips its next qualifying activation. Mark it with a Override token. The shell is flying. The pilot is not home.
+
+Override is triggered by:
 - A Blackout result of 3 to 6.
 - Any Tumble (as part of Tumble Aftermath).
 
-A car cannot accumulate multiple Recovery tokens. If a car already in Recovery would enter Recovery again, treat the second trigger as having no additional effect beyond what its source already imposed (such as Handling loss from a second Tumble).
+ A Null-Frame cannot accumulate multiple Override tokens; a second trigger has no additional effect beyond what its source already imposed.
 
 ---
 
 ### HANDLING LOSS
 
-Each Tumble or Redout permanently reduces a driver's Handling by 1 for the rest of the race, to a minimum of 1. Track the current Handling value on a dial or with markers.
+Each Tumble or Redout permanently reduces a pilot's Handling by 1 for the rest of the race, to a minimum of 1. Track the current Handling value on a dial or with markers.
 
 - Handling determines how many Skid Dice you roll each activation (capped at 4).
-- A driver at **Handling 1** may not declare Redout or Red Mist. Their nervous system and machine are too compromised to attempt anything that extreme.
-- A driver at **Handling 1** who Blacks Out must roll an Emergency Dampener Check (below).
+- A pilot at **Handling 1** may not declare Redout or Red Mist. Their nervous system and machine are too compromised to attempt anything that extreme.
+- A pilot at **Handling 1** who Blacks Out must roll an Emergency Dampener Check (below).
 
 ---
 
 ### EMERGENCY DAMPENER CHECK
 
-When a driver at Handling 1 Blacks Out, before any other Blackout effects resolve, they must roll an **Emergency Dampener Check** on 1D6. Track the number of Emergency Dampener Checks this driver has been forced to make this race.
+When a pilot at Handling 1 Blacks Out, before any other Blackout effects resolve, they must roll an **Emergency Dampener Check** on 1D6. Track the number of Emergency Dampener Checks this pilot has been forced to make this race.
 
 | Check Number | Required d6 result to survive |
 |:---|:---:|
@@ -304,29 +320,29 @@ When a driver at Handling 1 Blacks Out, before any other Blackout effects resolv
 | 3rd | 6+ |
 | 4th | automatic death, no roll |
 
-**On a success**, resolve the Blackout normally. A Tumble result from this Blackout does NOT cause further Handling loss, because the driver is already at the minimum.
+**On a success**, resolve the Blackout normally. A Tumble result from this Blackout does NOT cause further Handling loss, because the pilot is already at the minimum.
 
-**On a failure**, the driver dies and the car becopmes a *Dead Stick*
+**On a failure**, the pilot dies and the Null-Frame becopmes a *Dead Stick*
 
-**Dead Stick**: When a driver dies, do not remove the car immediately. At the start of each subsequent Vector Phase equal to its last active Vector, the car activates automatically: it moves the Long Straight template directly forward, rolls no Skid Dice, and gains no G-Force. It has no pilot and no Inertial Dampener. It simply continues on its last thrust vector.
+**Dead Stick**: When a pilot dies, do not remove the Null-Frame immediately. At the start of each subsequent Vector Phase equal to its last active Vector, the Null-Frame activates automatically: it moves the Long Straight template directly forward, rolls no Skid Dice, and gains no G-Force. It has no pilot and no Inertial Dampener. It simply continues on its last thrust vector.
  
-The Dead Stick car persists until it collides with a wall or Heavy Solid Object, at which point it is removed. Collisions with other cars are resolved normally for those cars; the Dead Stick car itself ignores all G-Force and reactions. There is nobody left to react.
+The Dead Stick Null-Frame persists until it collides with a wall or Heavy Solid Object, at which point it is removed. Collisions with other Null-Frames are resolved normally for those Null-Frames; the Dead Stick Null-Frame itself ignores all G-Force and reactions. There is nobody left to react.
  
-If the Dead Stick car passes through a Gate, the passage does not count. The race is over for that cockpit. 
+If the Dead Stick Null-Frame passes through a Gate, the passage does not count. The race is over for that cockpit. 
 
 While a "Red Mist" maneuver is a glorious, terminal sacrifice - an ace racer burning out in a final, blinding surge of speed to clinch victory—dying a pilot dying to a simple system failure is a loser’s end. One is a legend written in fire; the other is just expensive debris drifting through the track, a hollow shell of waiting for the inevitable impact to turn it into an "Alloy Pizza".
 
 > ##### DESIGN NOTE
-> Consider a Perk that allows an AI to take over. Alternatively, as a baseline rule, "Dead Stick" cars could bounce upon impact until they either collapse into a "pizza of alloy" due to total dampener failure (on a D6 roll of 1) or explode in a shockwave (on a D6 roll of 6).
+> Consider a Perk that allows an AI to take over. Alternatively, as a baseline rule, "Dead Stick" Null-Frames could bounce upon impact until they either collapse into a "pizza of alloy" due to total dampener failure (on a D6 roll of 1) or explode in a shockwave (on a D6 roll of 6).
 
 > ##### NOTE
-> The Emergency Dampener Check is the only way ordinary play can permanently kill a driver. It is the cumulative bill the body has been keeping. The first time it triggers, the driver almost always lives. The fourth time, no roll, no chance, just a name added to the lap sheet's other side.
+> The Emergency Dampener Check is the only way ordinary play can permanently kill a pilot. It is the cumulative bill the body has been keeping. The first time it triggers, the pilot almost always lives. The fourth time, no roll, no chance, just a name added to the lap sheet's other side.
 
 ---
 
-# DRIVER ACTIONS
+# PILOT ACTIONS
 
-The following two actions are core mechanics, not optional rules. They are how an experienced driver squeezes performance out of a system that has already started punishing them.
+The following two actions are core mechanics, not optional rules. They are how an experienced pilot squeezes performance out of a system that has already started punishing them.
 
 ---
 
@@ -338,33 +354,37 @@ A redout occurs when a pilot exceeds physiological limits during high negative G
 >
 > You may declare Redout as many times as you like across the race. Each declaration costs another point of Handling.
 >
-> A driver at Handling 1 cannot declare a Redout.
+> A pilot at Handling 1 cannot declare a Redout.
 
 > ##### SURVIVAL TIP
-> Redout is what you reach for in the final lap when your only path to a podium is doing things your car was not designed for. Stacking Redouts is what you reach for when you have already decided you are going to win or detonate.
+> Redout is what you reach for in the final lap when your only path to a podium is doing things your Null-Frame was not designed for. Stacking Redouts is what you reach for when you have already decided you are going to win or detonate.
 
 ---
 
 ### RED MIST
 
-The final and only true exit from G-Zero by your own hand. A pilot under sustained extreme G eventually stops being a pilot and becomes a fine red mist coating the inside of their cockpit. Some pilots reach this state by accident. The legendary ones reach it on purpose, on the final straight, with their nose pointed at the Finish Gate.
+The Inertial Dampener keeps a pilot alive. This is not a metaphor; at V5 and above, switching it off is a death sentence measured in milliseconds. Red Mist is the deliberate choice to stop managing 
+that equation - to route everything into thrust, hold the nose straight, and let the G-forces finish what they started. 
 
-> **Red Mist**: Once per race, at the start of one of your activations, only if you are currently at V5 or V6. You must add two Long Straight templates in any order to your normal template for this activation. You roll no Skid Dice for this activation and gain no G-Force from the Red Mist movement itself. Collisions caused along the path are resolved normally for the other cars involved; you yourself ignore all G-Force from those collisions. Finishing the Race will count, even if you died for it.
+Some pilots reach this state by accident. The legendary ones reach it on purpose, on the final straight, with their nose pointed at the Finish Gate.
+
+> **Red Mist**: Once per race, at the start of one of your > activations, only if you are currently at V5 or V6. You must add two Long Straight templates in any order to your normal template 
+> for this activation. You roll no Skid Dice and gain no G-Force from the Red Mist movement itself - the Dampener is offline; there is nothing left to measure. Collisions caused along the path are resolved normally for the other Null-Frames involved; you yourself ignore all G-Force from those collisions.
 >
-> At the end of this activation, regardless of your position on the track, your driver dies. The car is removed from the game.
+> At the end of this activation, regardless of your position on the track, your pilot dies. 
 >
-> **Exception**: if you crossed the Finish Gate on your final lap during this activation, you are recorded as a Finisher. The result book will list your placing. Whether the obituary calls you a winner depends on where the other cars are.
+> **Exception**: if you crossed the Finish Gate on your final lap during this activation, you are recorded as a Finisher. The result book will list your placing. Whether the obituary calls you a winner depends on where the other Null-Frames are.
 >
-> A driver at Handling 1 cannot declare Red Mist.
+> A pilot at Handling 1 cannot declare Red Mist.
 
 ---
 
 # THE ALTITUDE SYSTEM
 
 > ##### DESIGN INTENT
-> This is the main mechanic that differentiates G-Zero further from standard Gaslands. All cars are hover vehicles. Altitude is the combat replacement: instead of shooting each other, drivers fight for position by flying high or diving low, and the physics of close-range altitude differentials do the damage.
+> This is the main mechanic that differentiates G-Zero further from standard Gaslands. All Null-Frames are hover vehicles. Altitude is the combat replacement: instead of shooting each other, pilots fight for position by flying high or diving low, and the physics of close-range altitude differentials do the damage.
 
-Every hovercar has an **Altitude**: **Low**, **Mid**, or **High**. Track altitude with a separate token or dial alongside your Vector tracker.
+Every hoverNull-Frame has an **Altitude**: **Low**, **Mid**, or **High**. Track altitude with a separate token or dial alongside your Vector tracker.
 
 Altitude is declared secretly at the start of each Vector Phase and revealed when you activate or when a collision forces it. See **Secret Altitude Declaration** under Core Rules.
 
@@ -389,7 +409,7 @@ When you declare Low, you gain a free **bonus movement** at the very start of yo
 The bonus movement is placed from your current position before your normal template.
 
 > ##### SURVIVAL TIP
-> Going Low from High is a massive speed burst, a free Long Straight, but 3 G-Force tokens is an enormous price. You will arrive fast, unstable, and very close to a Blackout. This is the move of a driver who is desperate or has absolutely committed to the corner entry.
+> Going Low from High is a massive speed burst, a free Long Straight, but 3 G-Force tokens is an enormous price. You will arrive fast, unstable, and very close to a Blackout. This is the move of a pilot who is desperate or has absolutely committed to the corner entry.
 
 #### GOING HIGH
 
@@ -402,11 +422,11 @@ When you declare High, you may use movement templates as if your Vector were 1+X
 | Low (launching to High) | use any template Vector and drop 1+X Vectors |
 
 > ##### EXAMPLE
-> Your car is at V6, Altitude High. You declare High again (staying High). You choose to pay X=3 G-Force tokens. Your effective Vector drops to V3. You may now use V3 templates like the Hairpin. You still pay the 1 G-Force for using the Hairpin at V3.
+> Your Null-Frame is at V6, Altitude High. You declare High again (staying High). You choose to pay X=3 G-Force tokens. Your effective Vector drops to V3. You may now use V3 templates like the Hairpin. You still pay the 1 G-Force for using the Hairpin at V3.
 
 #### GOING MID / STAYING MID
 
-Mid is the recovery and stability zone. No bonus movement. No Vector Check. Just Energy.
+Mid is the Override and stability zone. No bonus movement. No Vector Check. Just Energy.
 
 | Transition | Bonus |
 |:---|:---:|
@@ -424,23 +444,23 @@ These bonus Energy results are added to your Skid Dice pool as free results. You
 # COLLISIONS
 
 > ##### DIFFERENCE FROM GASLANDS
-> In Gaslands, collisions involve a Smash Attack: attack dice are rolled, Hull Points are lost, and vehicles can be destroyed. In G-Zero, there are no Hull Points and no attack dice. Collisions produce G-Force tokens, Spin-Outs, and (for object collisions) Burst Templates. Altitude determines whether a car-vs-car collision is full contact or a graze.
+> In Gaslands, collisions involve a Smash Attack: attack dice are rolled, Hull Points are lost, and vehicles can be destroyed. In G-Zero, there are no Hull Points and no attack dice. Collisions produce G-Force tokens, Spin-Outs, and (for object collisions) Burst Templates. Altitude determines whether a Null-Frame-vs-Null-Frame collision is full contact or a graze.
 
 ### ALTITUDE AND COLLISION TYPE
 
-Before resolving any collision between two cars, compare the Altitudes of the two cars involved. If either driver has not yet revealed their Altitude this phase, they must do so now.
+Before resolving any collision between two Null-Frames, compare the Altitudes of the two Null-Frames involved. If either pilot has not yet revealed their Altitude this phase, they must do so now.
 
 **Same Altitude:** Full collision. Resolve as described under Full Collision below.
 
-**Different Altitude:** Graze. The cars clip each other. Resolve using the graze table below, based on the Altitude differential.
+**Different Altitude:** Graze. The Null-Frames clip each other. Resolve using the graze table below, based on the Altitude differential.
 
-Object collisions (car versus terrain or scenery) are always resolved as a Full Collision against the object, plus a Burst Template (see below).
+Object collisions (Null-Frame versus terrain or scenery) are always resolved as a Full Collision against the object, plus a Burst Template (see below).
 
 ---
 
 ### GRAZE TABLE
 
-The moving car is the "aggressor" regardless of intent.
+The moving Null-Frame is the "aggressor" regardless of intent.
 
 | Aggressor Altitude | Defender Altitude | Aggressor takes | Defender takes |
 |:---|:---|:---:|:---:|
@@ -455,30 +475,30 @@ The moving car is the "aggressor" regardless of intent.
 **Medium:** +2 G-Force tokens.
 **Heavy:** +3 G-Force tokens.
 
-High Altitude is the dominant position. Flying High makes a driver dangerous as an aggressor and very resilient as a target. Low altitude makes a car fast and fragile.
+High Altitude is the dominant position. Flying High makes a pilot dangerous as an aggressor and very resilient as a target. Low altitude makes a Null-Frame fast and fragile.
 
 > ##### SCALE NOTE
-> These cars are travelling at 300 to over 2000 km/h. A graze is not a nudge. The reason a Heavy result is only 3 G-Force tokens is that at these speeds, the collision itself is measured in milliseconds. Debris from a destroyed object hangs in the air for only a few seconds, but at these velocities a few seconds is a full lap for the pack behind. This is why Burst Templates persist for the duration of the round (see Burst Templates below).
+> These Null-Frames are travelling at 300 to over 2000 km/h. A graze is not a nudge. The reason a Heavy result is only 3 G-Force tokens is that at these speeds, the collision itself is measured in milliseconds. Debris from a destroyed object hangs in the air for only a few seconds, but at these velocities a few seconds is a full lap for the pack behind. This is why Burst Templates persist for the duration of the round (see Burst Templates below).
 
 ---
 
 ### FULL COLLISION
 
-When two cars are at the same Altitude, OR a car collides with any object, a Full Collision occurs. First, determine orientation:
+When two Null-Frames are at the same Altitude, OR a Null-Frame collides with any object, a Full Collision occurs. First, determine orientation:
 
-- **Car versus Car**: Head-On, T-Bone, or Tailgate as in Gaslands: Refuelled.
-- **Car versus Soft Object** (bushes, persons, paper stands, light debris): resolves as a **Tailgate** collision. Place a **Small Burst Template** of debris.
-- **Car versus Medium Solid Object** (billboards, barrels, small containers, crates): resolves as a **T-Bone** collision. Place a **Large Burst Template** of debris.
-- **Car versus Heavy Solid Object** (walls, hard gates, pillars, large containers): resolves as a **Head-On** collision.
+- **Null-Frame versus Null-Frame**: Head-On, T-Bone, or Tailgate as in Gaslands: Refuelled.
+- **Null-Frame versus Soft Object** (bushes, persons, paper stands, light debris): resolves as a **Tailgate** collision. Place a **Small Burst Template** of debris.
+- **Null-Frame versus Medium Solid Object** (billboards, barrels, small containers, crates): resolves as a **T-Bone** collision. Place a **Large Burst Template** of debris.
+- **Null-Frame versus Heavy Solid Object** (walls, hard gates, pillars, large containers): resolves as a **Head-On** collision.
 
-In a car versus car collision, each driver declares a Reaction. In an object collision, the colliding driver declares a Reaction normally; the object does not react and cannot Spin you out, although the Burst Template may affect nearby cars.
+In a Null-Frame versus Null-Frame collision, each pilot declares a Reaction. In an object collision, the colliding pilot declares a Reaction normally; the object does not react and cannot Spin you out, although the Burst Template may affect nearby Null-Frames.
 
 | Reaction | G-Force Cost | Special |
 |:---|:---:|:---|
-| **Evade** | +1 G | Cannot Spin the other car. |
-| **Brace** | +2 G | May Spin the other car (see below). |
+| **Evade** | +1 G | Cannot Spin the other Null-Frame. |
+| **Brace** | +2 G | May Spin the other Null-Frame (see below). |
 
-**Spin-Out:** If you chose Brace and you are the non-moving car, you may pivot the other car up to 90 degrees (T-Bone) or any direction (Head-On) after movement resolves. If both drivers chose Brace on a Head-On, both cars spin each other simultaneously. Decide direction by rock-paper-scissors or dice-off.
+**Spin-Out:** If you chose Brace and you are the non-moving Null-Frame, you may pivot the other Null-Frame up to 90 degrees (T-Bone) or any direction (Head-On) after movement resolves. If both pilots chose Brace on a Head-On, both Null-Frames spin each other simultaneously. Decide direction by rock-paper-scissors or dice-off.
 
 > ##### NOTE
 > Smash Attacks from Gaslands do not exist in this game. No attack dice are rolled. No Hull Points are lost. The only consequences of a collision are G-Force tokens, possible Spin-Outs, and (for object collisions) Burst Template effects.
@@ -487,11 +507,11 @@ In a car versus car collision, each driver declares a Reaction. In an object col
 
 ### BURST TEMPLATES
 
-When a car strikes an object, the object shatters, deforms, or explodes. Place the appropriate Burst Template (Small, Large, or Extra-Large) centred on the point of collision. The Burst Template is oriented along the colliding vehicle's direction of travel.
+When a Null-Frame strikes an object, the object shatters, deforms, or explodes. Place the appropriate Burst Template (Small, Large, or Extra-Large) centred on the point of collision. The Burst Template is oriented along the colliding vehicle's direction of travel.
 
 **Any other vehicle whose base overlaps the Burst Template** suffers an effect determined by the object's **material**. The colliding vehicle itself is not affected by its own Burst Template; it has already paid the cost of impact through the Full Collision reaction.
 
-**Template Duration:** Burst Templates from destroyed objects persist for the **remainder of the current round** (Vector Phases 1 through 6), then are removed at round end. At 900 km/h, splinters and shrapnel hang in the air for only a few seconds, but that is long enough for every car behind to run through them.
+**Template Duration:** Burst Templates from destroyed objects persist for the **remainder of the current round** (Vector Phases 1 through 6), then are removed at round end. At 900 km/h, splinters and shrapnel hang in the air for only a few seconds, but that is long enough for every Null-Frame behind to run through them.
 
 Some hazards are **permanent**: structural damage to the track surface, large debris that did not clear the lane, or objects that were only partially destroyed remain in place until the referee removes them. Whether a hazard is temporary or permanent depends on its material. Guidance on which material categories produce temporary versus permanent hazards will be in the forthcoming effects table.
 
@@ -499,8 +519,30 @@ The effect of the Burst Template depends on the material of the object struck. P
 
 **A formal material/effect table is in development.** Until it is published, the players at the table decide what effect each piece of scenery produces when destroyed. Assign material categories at track setup: decide whether each object's debris is temporary (clears at round end) or permanent (stays on the track). People who play games like this know how to handle it.
 
+### BURST TEMPLATE EFFECTS
+
+| Material | Template | Duration | Effect |
+|:---|:---:|:---:|:---|
+| **Liquid** (coolant, fuel, organics) | Small | Temporary | -1 Handling next activation only. The cockpit feed does not need to explain what it was. |
+| **Debris** (glass, light panels, small debris) | Small | Temporary | +1 G |
+| **Rubble** (structural fragments, large debris) | Large | Temporary | +2 G |
+| **Wreckage** (collapsed sections, large containers) | Large | Permanent | +2 G; debris remains as a Medium Solid Object |
+| **Gas** (pressurised canisters, chemical cloud) | Large | 2 rounds | +/- 1-3 random G per activation ending in template |
+| **Arc** (high-voltage infrastructure, power relays) | Medium | Temporary | +2 G; Dampener is disrupted - Energy results on next Skid Dice roll may not be spent on G removal |
+| **Accelerator Field - Short** (small boost pad) | Small | Permanent | +Short Straight bonus movement; +1 G |
+| **Accelerator Field - Medium** (mid section) | Medium | Permanent | +Medium Straight bonus movement; +2 G |
+| **Accelerator Field - Long** (full straight boost) | Large | Permanent | +Long Straight bonus movement; +3 G |
+| **Brake Field - Short** | Small | Permanent | Forced -1 Vector immediately |
+| **Brake Field - Medium** | Medium | Permanent | Forced -2 Vector immediately |
+| **Brake Field - Long** | Large | Permanent | Forced -3 Vector immediately; +1 free G removal |
+| **Energy Transfer - Small** | Small | Temporary | +1 Energy result immediately |
+| **Energy Transfer - Medium** | Medium | Temporary | +2 Energy results immediately |
+| **Energy Transfer - Large** | Large | Temporary | +3 Energy results immediately |
+
+Accelerator and Brake Fields are colour-coded at track setup. Fields may also be placed as permanent track features independent of any collision.
+
 > ##### DESIGNER NOTE
-> Burst Templates exist to make object collisions matter beyond a single car's misfortune. If a leader takes out a stack of barrels on the apex of a corner, the chasers entering that apex deal with the consequences too. Place soft scenery where you want the track to forgive, place heavy scenery where you want it to bite.
+> Burst Templates exist to make object collisions matter beyond a single Null-Frame's misfortune. If a leader takes out a stack of barrels on the apex of a corner, the chasers entering that apex deal with the consequences too. Place soft scenery where you want the track to forgive, place heavy scenery where you want it to bite.
 
 ---
 
@@ -508,27 +550,27 @@ The effect of the Burst Template depends on the material of the object struck. P
 
 ### GATES AND LAPS
 
-Set up the track using the Gaslands Death Race scenario as a base. Gates are placed at regular intervals around the circuit. Cars must pass through each Gate in order. Passing a Gate out of sequence does not count.
+Set up the track using the Gaslands Death Race scenario as a base. Gates are placed at regular intervals around the circuit. Null-Frames must pass through each Gate in order. Passing a Gate out of sequence does not count.
 
-A standard race is **3 laps**. The first car to complete all laps and cross the Finish Gate wins.
+A standard race is **3 laps**. The first Null-Frame to complete all laps and cross the Finish Gate wins.
 
 ---
 
 ### STARTING GRID
 
-Roll off to determine starting positions. Place cars in a single-file line at the Start Gate, separated by one car length. All cars begin at V1, Altitude Mid, Handling 4, no Recovery, no Emergency Dampener Checks logged. The driver in first position receives the Pole Position token.
+Roll off to determine starting positions. Place Null-Frames in a single-file line at the Start Gate, separated by one Null-Frame length. All Null-Frames begin at V1, Altitude Mid, Handling 4, no Override, no Emergency Dampener Checks logged. The pilot in first position receives the Pole Position token.
 
 ---
 
 ### BEING LAPPED
 
-If a car falls more than one full lap behind the leader, it may use the **Restart Rule**: the car teleports to the last Gate it legally passed, resets to V1, clears all G-Force tokens, and resets Altitude to Mid. Handling, Recovery, and Emergency Dampener Check counts are NOT reset. This keeps hopeless positions from becoming unplayable without erasing the consequences of how the driver got there.
+If a Null-Frame falls more than one full lap behind the leader, it may use the **Restart Rule**: the Null-Frame teleports to the last Gate it legally passed, resets to V1, clears all G-Force tokens, and resets Altitude to Mid. Handling, Override, and Emergency Dampener Check counts are NOT reset. This keeps hopeless positions from becoming unplayable without erasing the consequences of how the pilot got there.
 
 ---
 
 ### GATES IN THE AIR
 
-Some tracks may feature **Altitude Gates**, a Gate marked with a specific required Altitude (Low, Mid, or High). A driver must be at the marked Altitude when passing through the Gate for the passage to count. Passing at the wrong Altitude does not count and does not grant the Gate, but the driver is not penalised beyond having to come back around.
+Some tracks may feature **Altitude Gates**, a Gate marked with a specific required Altitude (Low, Mid, or High). A pilot must be at the marked Altitude when passing through the Gate for the passage to count. Passing at the wrong Altitude does not count and does not grant the Gate, but the pilot is not penalised beyond having to come back around.
 
 Mark Altitude Gates with a coloured token on the Gate.
 
@@ -538,13 +580,13 @@ Mark Altitude Gates with a coloured token on the Gate.
 
 ### GHOST MODE
 
-For a first game or when playing with new players: cars cannot collide with each other. Only wall and obstacle collisions apply. Removes the chaos element entirely so new players can learn the Vector system and template selection without worrying about opponents. Recommended for the first race only.
+For a first game or when playing with new players: Null-Frames cannot collide with each other. Only wall and obstacle collisions apply. Removes the chaos element entirely so new players can learn the Vector system and template selection without worrying about opponents. Recommended for the first race only.
 
 ---
 
 ### SLIPSTREAM
 
-A car directly behind another car at the same Altitude and same Velocity Vector (within one car length, not overlapping) may declare Slipstream at the start of its activation. A Slipstreaming car may move its template as if it were in the next Vector up. No G-Force cost. This represents drafting off the car ahead.
+A Null-Frame directly behind another Null-Frame at the same Altitude and same Velocity Vector (within one Null-Frame length, not overlapping) may declare Slipstream at the start of its activation. A Slipstreaming Null-Frame may move its template as if it were in the next Vector up. No G-Force cost. This represents drafting off the Null-Frame ahead.
 
 ---
 
@@ -554,29 +596,47 @@ Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written,
 
 ---
 
-# COMING SOON
-
 > ##### SPONSORS
-> Sponsor cards will introduce asymmetric car bonuses tied to the Altitude system. A Low-specialist Sponsor might reduce the G-Force cost of Low transitions. A High-specialist might start each race with free Energy already banked. This section is in development.
-<br>
+> Every Null-Frame on the grid flies someone else's colours. The Boards do not fund pilots; they fund narratives. Sponsors provide the shell, the entry fee, and the carefully managed public identity. What they get in return is forty minutes of uninterrupted broadcast real estate at speeds the cameras love. The contract details what happens if the pilot dies. It is longer than the section about winning.
+>
+> Sponsors introduce asymmetric performance profiles tied to the Altitude system and the pilot's playstyle. This section is in development; full sponsor cards and draft rules will follow. The corps below are established presences on the G-Zero grid.
+
+>
+> **ISHIDA-REYES DYNAMICS** *(High specialist)* - Old money. The kind of corp that does not need to explain what it makes because it makes the infrastructure everything else runs on. IRD shells are engineered for the High band; their pilots start each race with 2 Energy already banked and pay 1 less G on High-to-High transitions. The livery is white and a very specific shade of blue that is trademarked in fourteen jurisdictions. Their pilot contracts include a non-disclosure clause that covers the afterlife, legally speaking. *Vibe: Clean hands, deep water.*
+>
+> **PROMETHEAN STREET COLLECTIVE** *(Low specialist)* - Not a corp. Technically a registered racing cooperative out of the PRomethean Hub transit sprawl, which means it is owned collectively by its members, has three different people who claim to be the CEO, and somehow keeps making the grid. PSC shells are built fast and cheap in workshops that probably violate six safety codes; their pilots reduce the G-Force cost of Low transitions by 1 and gain a bonus Short Straight on Mid-to-Low drops instead of Medium. The livery changes every season because nobody can agree. They have never won. They have finished, which in G-Zero is not the same thing as losing. *Vibe: The cooperative that shouldn't be here but keeps showing up.*
+>
+> **TETSUŌ HEAVY INDUSTRIES** *(Collision specialist)* - Nobody officially sanctions ramming in G-Zero. Tetsuō's legal team has sixty different filings that explain, at length, why what their pilots do is not ramming. The shells are overbuilt for the class, the pilots are selected for aggression, and the Graze table seems to like them. Tetsuō pilots treat Heavy Graze results as Medium when they are the aggressor. The founder's name is not actually Tetsuō. The founder's name is not something the Boards have been able to verify. *Vibe: Street Gang energy filtered through a corporate structure. Distance's aggressive geometry.*
+>
+> **RUTHERFORD PRISON SYSTEMS - G-ZERO DIVISION** *(Attrition specialist)* - Rutherford's pivot from correctional logistics to motorsport is either the most cynical piece of brand rehabilitation in enclave history or a genuine attempt to give their contracted pilots something to race toward. The pilots are serving. The contracts specify that podium finishes reduce sentence length. The shells are functional, maintained by people who learned engineering because the alternative was worse, and finished in Rutherford's institutional grey with a single orange stripe. Their pilots start each race having already passed one Emergency Dampener Check - the paperwork is already filed. *Vibe: Rutherford. Still the prison corp. Now with more broadcast rights.*
+>
+> **MIYAZAKI MOTION WORKS** *(Override specialist)* - Miyazaki builds shells the way they build everything: with more care than the budget suggests and a philosophy the engineers argue about in the canteen. Their pilots recover from Override faster - a Null-Frame in Override on a Miyazaki shell may make a single V1 activation during the Override turn at half template length, as if the system is already fighting its way back online. The livery is understated. The shells are not. *Vibe: Precision Enginieering and principles. Slightly out of place in the world they inhabit.*
+>
+> **QORALIS BROADCAST SYSTEMS** *(Energy specialist)* - Qoralis does not make shells. Qoralis makes feeds. The racing division exists because someone at the board level realised that owning a team means controlling the camera angle. QBS pilots receive +1 Energy on any activation that is broadcast as the featured race feed that round - which the Qoralis team manager decides, and they always decide in their pilot's favour. The shells are beautiful. The cockpit cameras are the highest resolution on the grid. *Vibe: Media machine energy. The race is content.*
+---
 
 > ##### FEATS
-> Feats are persistent upgrades purchased between races. They will add build customisation without adding vehicle type complexity. This section is in development.
-<br>
-
-> ##### VEHICLE CLASSES
-> Whether G-Zero ever expands beyond one car type is an open question. If vehicle classes are added, they will be differentiated through Altitude performance profiles rather than Hull/Weapon loadouts. This section is in development.
-<br>
-
-> ##### BURST TEMPLATE EFFECT TABLE
-> A formal table mapping each material category to specific Burst Template effects, including whether debris is temporary or permanent, is in development. Until then, use player consensus during track setup or in the moment.
-<br>
+> Feats are persistent upgrades a pilot learns, earns, and carries. They are not modifications to the shell - the shell is replaceable. A pilot who survives long enough to develop real instincts is considerably harder to manufacture. The Boards are aware of this. The pilots are not supposed to be.
+>
+> Feats live and die with the pilot. A dead pilot's Feats die with them. Handling lost during a race does not return between races; a pilot who has been pushing their limits for three seasons feels it. What they gain instead is pattern recognition, timing, and the kind of calm that only comes from having already seen the worst the track can do.
+>
+> Feats fall into three categories. **Inherent** Feats are things a pilot simply is - neurology, physiology, the kind of talent that cannot be taught and is therefore deeply unfair. **Experience** Feats are things a pilot has learned to do through repetition, consequence, and survival. **Implant** Feats are purchased upgrades to the biological hardware; subscription-based in most enclaves, owned outright by almost nobody. Implants are the only Feats that can theoretically be transferred to another pilot. The surgery required to do so is not covered by standard race insurance.
+>
+> This section is in development. Planned examples include:
+>
+> **Newtype** *(Inherent)* - Some pilots process track data faster than the cockpit systems can render it. A Newtype pilot always generates 1 additional Energy result per activation, as if the Dampener field itself is half a second ahead of physics. Whether this is genuine precognition, extreme sensory integration, or something the medical board does not have a classification for yet is not something the Boards encourage discussion of.
+>
+> **Iron Stomach** *(Inherent)* - The pilot's G-tolerance is abnormal. Blackout triggers at 7 G-Force tokens instead of 6. The medical file attached to this Feat is three pages longer than standard and flagged for review after every race. The review always comes back clean.
+>
+> **Ghost Line** *(Experience)* - Once per race, the pilot may change their Altitude after the atAggressor frame's Altitude is revealed. They have seen this before. They already knew.
+>
+> **Hardwired Reflexes** *(Implant)* - The pilot's reaction latency has been surgically reduced to below 80 milliseconds. Once per race, the pilot may cancel one G-Force result after it is rolled. The subscription renewal notice arrives in the cockpit feed during qualifying. It is always bad timing.
 
 ---
 
 # QUICK REFERENCE
 
-### THE HOVERCAR
+### THE HOVERNull-Frame
 
 | Max Vector | Handling (start) | Weight | Hull | Crew |
 |:---:|:---:|:---:|:---:|:---:|
@@ -657,10 +717,10 @@ Light = +1 G. Medium = +2 G. Heavy = +3 G.
 
 ### FULL COLLISION
 
-Car vs Car (same altitude): standard Head-On / T-Bone / Tailgate.
-Car vs Soft Object (bushes, persons, paper stands): Tailgate + Small Burst.
-Car vs Medium Solid (billboards, barrels, small containers): T-Bone + Large Burst.
-Car vs Heavy Solid (walls, hard gates, pillars, large containers): Head-On + Extra-Large Burst.
+Null-Frame vs Null-Frame (same altitude): standard Head-On / T-Bone / Tailgate.
+Null-Frame vs Soft Object (bushes, persons, paper stands): Tailgate + Small Burst.
+Null-Frame vs Medium Solid (billboards, barrels, small containers): T-Bone + Large Burst.
+Null-Frame vs Heavy Solid (walls, hard gates, pillars, large containers): Head-On + Extra-Large Burst.
 
 | Reaction | G-Force | Can Spin Opponent? |
 |:---|:---:|:---:|
@@ -680,7 +740,7 @@ Burst Templates persist until end of round, then are removed. Permanent hazards 
 Triggered at 6+ G-Force tokens at end of activation.
 
 1. If at Handling 1: roll Emergency Dampener Check first (2+ / 4+ / 6+ / dead).
-2. Roll 1D6: on 1 or 2 = Tumble; on 3 to 6 = Recovery only.
+2. Roll 1D6: on 1 or 2 = Tumble; on 3 to 6 = Override only.
 3. Reset to V1, Altitude Mid, 0 G-Force.
 
 ---
@@ -691,28 +751,28 @@ Triggers: Blackout (1 or 2), Burst Template, other effects.
 
 1. Direction: 1D6 -> six 60-degree wedges (1=fwd, 2=fwd-right, 3=back-right, 4=back, 5=back-left, 6=fwd-left).
 2. Distance: Short (V1 to V2), Medium (V3 to V4), Long (V5 to V6).
-3. Cars caught: gain G-Force = Tumble length, pivoted up to 90 degrees by active player, no reactions.
-4. Tumble Aftermath: -1 Handling permanently (min 1) + Recovery token.
+3. Null-Frames caught: gain G-Force = Tumble length, pivoted up to 90 degrees by active player, no reactions.
+4. Tumble Aftermath: -1 Handling permanently (min 1) + Override token.
 
 ---
 
-### RECOVERY
+### Override
 
 Skip next qualifying activation. Triggered by Blackout (3 to 6) or any Tumble. Does not stack.
 
 ---
 
-### DRIVER ACTIONS
+### pilot ACTIONS
 
 **Redout**: Declare at start of activation. -1 Handling permanently. Ignore Vector restrictions on templates for this activation. Stackable. Not available at Handling 1.
 
-**Red Mist**: Once per race, start of activation, V5 or V6 only. Add two Long Straight templates in any order to your normal template. No Skid Dice, no self-inflicted G-Force. End of activation: driver dies, car removed. Finish-Gate exception: recorded as Finisher if final lap completed. Not available at Handling 1.
+**Red Mist**: Once per race, start of activation, V5 or V6 only. Add two Long Straight templates in any order to your normal template. No Skid Dice, no self-inflicted G-Force. End of activation: pilot dies, Null-Frame removed. Finish-Gate exception: recorded as Finisher if final lap completed. Not available at Handling 1.
 
 ---
 
 ### EMERGENCY DAMPENER CHECK
 
-When a driver at Handling 1 Blacks Out, roll before any other effects:
+When a pilot at Handling 1 Blacks Out, roll before any other effects:
 
 | Check Number | Survive on |
 |:---|:---:|
@@ -722,7 +782,7 @@ When a driver at Handling 1 Blacks Out, roll before any other effects:
 | 4th | death, no roll |
 
 Success: resolve Blackout normally (Tumble does NOT take more Handling).
-Failure: driver dies, car removed.
+Failure: pilot dies, Null-Frame removed.
 
 ---
 
