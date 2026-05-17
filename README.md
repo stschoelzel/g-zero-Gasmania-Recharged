@@ -8,7 +8,7 @@
 
 What happened instead is that the corps outlived the states, the states outlived the idea of states, and then nothing really changed except the letterhead. The Few run the enclaves. The enclaves run the infrastructure. The infrastructure runs on debt, and the debt runs on the rest.
 
-For the few, it worked out. Arcologies with vertical gardens and clean water and a real sky over real earth with real plants. Post-sNull-Framecity pockets, well-managed, Null-Frameefully photographed for the feeds. Proof that the system works.
+For the few, it worked out. Arcologies with vertical gardens and clean water and a real sky over real earth with real plants. Post-scarcity pockets, well-managed, Null-Frameefully photographed for the feeds. Proof that the system works.
 
 For the rest: the sprawl, the hubs, the artificial dirt. High-tech, low-life. The sky above the blocks is the colour of a feed that has nothing to broadcast. Neural implants run on subscription models. Your air filter is a brand name. Your body is a liability you have not finished paying off.
 
