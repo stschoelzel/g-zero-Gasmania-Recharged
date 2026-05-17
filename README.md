@@ -39,7 +39,7 @@ Speed is the one thing that does not Null-Framee who owns it.
 > ---
 >
 > ##### VIBE & SOUNDTRACK
-> F-Zero GX. WipeOut HD. Extreme G. Speed Racer (2008).
+> F-Zero. WipeOut. Extreme G. Speed Racer.
 > Perturbator, Crystal Castles, Leftfield, Aphex Twin.
 > If the walls feel closer and the track feels faster, you are in the right headspace.
 
@@ -636,45 +636,29 @@ Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written,
 
 # QUICK REFERENCE
 
-### THE HOVERNull-Frame
-
-| Max Vector | Handling (start) | Weight | Hull | Crew |
-|:---:|:---:|:---:|:---:|:---:|
-| V6 | 4 | Light | None | None |
-
-Handling reduces by 1 with every Tumble or Redout (minimum 1).
-
----
+### THE NULL-FRAME
+| Max Vector | Handling (start) |
+|:---:|:---:|
+| V6 | 4 |
+Handling reduces by 1 with every Tumble or Redout (minimum 1). No Hull Points.
 
 ### VELOCITY REFERENCE
-
 | Vector | km/h | m/s |
 |:---:|:---:|:---:|
 | V1 | ~200 | ~55 |
 | V2 | ~350 | ~97 |
 | V3 | ~600 | ~167 |
 | V4 | ~900 | ~250 |
-| V5 | ~1300 | ~361 |
-| V6 | ~1800 | ~500 |
-
----
+| V5 | ~1.150 | ~319 |
+| V6 | ~1.900 | ~528 |
 
 ### ACTIVATION ORDER
-
-Pole Position activates first, then initiative order (race standings, leader to last). Qualified vehicles must activate or declare Delayed Activation. No passing turns.
-
-Pole Position passes to the current race leader at end of each round.
-
-**Delayed Activation**: secretly choose template, name a lower-initiative target vehicle, activate immediately after that vehicle moves (before its cleanup effects).
-
+Pole Position activates first, then initiative order (race standings, leader to last). Qualified Null-Frames must activate or declare Delayed Activation. No passing turns. Pole Position passes to the current race leader at end of each round.
+**Delayed Activation**: secretly choose template, name a lower-initiative target Null-Frame, activate immediately after that Null-Frame moves (before its cleanup effects).
 Altitude is declared secretly at the start of each Vector Phase. Reveal when activated or when a collision occurs.
 
----
-
 ### SKID DICE
-
 Roll up to Handling dice (max 4). Resolve in order:
-
 | Result | Effect |
 |:---|:---|
 | Energy ⚡ | Activate Inertial Dampener (cancel a result), change Vector +/-1 (costs 1 G), or remove 1 G |
@@ -682,26 +666,23 @@ Roll up to Handling dice (max 4). Resolve in order:
 | Drift | Move to Drift exit. +1 G |
 | Spin | Pivot up to 90 degrees. +1 G |
 
----
+### SONIC BOOM
+On the first activation after switching to V6, place a Large Burst Template directly behind the Null-Frame. Active pilot chooses: place at start or end of movement. Any Null-Frame activating while overlapping it rolls extra Skid Dice equal to its Handling. Any Null-Frame ending its activation overlapping it does the same. Template removed at end of activation.
 
 ### ALTITUDE TRANSITIONS
-
 | From -> To | Bonus | Cost |
 |:---|:---|:---|
 | Low -> Low | +Short Straight | +1 G |
 | Mid -> Low | +Medium Straight | +2 G |
 | High -> Low | +Long Straight | +3 G |
 | High -> High | Templates as V-(1+X) | pay X G |
-| Mid -> High | Templates as V-(1+X) | pay X G, +1 Vector Check |
-| Low -> High | Templates as V-(1+X), drop 1 Vector | pay X G |
+| Mid -> High | Templates as V-(1+X) | pay X G |
+| Low -> High | Templates as any V, drop 1 Vector | pay X G |
 | Mid -> Mid | +1 Energy | none |
 | Low -> Mid | +2 Energy | none |
 | High -> Mid | +2 Energy | none |
 
----
-
 ### GRAZE TABLE (DIFFERENT ALTITUDE)
-
 | Aggressor | Defender | Aggressor | Defender |
 |:---:|:---:|:---:|:---:|
 | High | Low | Light | Heavy |
@@ -710,81 +691,51 @@ Roll up to Handling dice (max 4). Resolve in order:
 | Low | High | Heavy | Light |
 | Mid | High | Medium | Light |
 | Low | Mid | Light | Light |
-
 Light = +1 G. Medium = +2 G. Heavy = +3 G.
 
----
-
 ### FULL COLLISION
-
 Null-Frame vs Null-Frame (same altitude): standard Head-On / T-Bone / Tailgate.
 Null-Frame vs Soft Object (bushes, persons, paper stands): Tailgate + Small Burst.
 Null-Frame vs Medium Solid (billboards, barrels, small containers): T-Bone + Large Burst.
 Null-Frame vs Heavy Solid (walls, hard gates, pillars, large containers): Head-On + Extra-Large Burst.
-
 | Reaction | G-Force | Can Spin Opponent? |
 |:---|:---:|:---:|
 | Evade | +1 | No |
 | Brace | +2 | Yes (up to 90 degrees) |
 
----
-
 ### BURST TEMPLATE EFFECTS
-
 Burst Templates persist until end of round, then are removed. Permanent hazards (large debris, structural damage) stay until the referee removes them. Effects depend on object material. Possible outcomes: G-Force gain/loss, Vector gain/loss, Tumble. Formal table in development.
 
----
-
 ### BLACKOUT
-
 Triggered at 6+ G-Force tokens at end of activation.
-
 1. If at Handling 1: roll Emergency Dampener Check first (2+ / 4+ / 6+ / dead).
-2. Roll 1D6: on 1 or 2 = Tumble; on 3 to 6 = Override only.
+2. Roll 1D6: on 1 or 2 = Tumble; on 3 to 6 = Recovery only.
 3. Reset to V1, Altitude Mid, 0 G-Force.
 
----
-
 ### TUMBLE
-
 Triggers: Blackout (1 or 2), Burst Template, other effects.
-
 1. Direction: 1D6 -> six 60-degree wedges (1=fwd, 2=fwd-right, 3=back-right, 4=back, 5=back-left, 6=fwd-left).
 2. Distance: Short (V1 to V2), Medium (V3 to V4), Long (V5 to V6).
-3. Null-Frames caught: gain G-Force = Tumble length, pivoted up to 90 degrees by active player, no reactions.
-4. Tumble Aftermath: -1 Handling permanently (min 1) + Override token.
+3. Null-Frames caught: gain G-Force = Tumble length, pivoted up to 90 degrees by active pilot, no reactions.
+4. Tumble Aftermath: -1 Handling permanently (min 1) + Recovery token.
 
----
-
-### Override
-
+### RECOVERY
 Skip next qualifying activation. Triggered by Blackout (3 to 6) or any Tumble. Does not stack.
 
----
-
-### pilot ACTIONS
-
+### PILOT ACTIONS
 **Redout**: Declare at start of activation. -1 Handling permanently. Ignore Vector restrictions on templates for this activation. Stackable. Not available at Handling 1.
-
 **Red Mist**: Once per race, start of activation, V5 or V6 only. Add two Long Straight templates in any order to your normal template. No Skid Dice, no self-inflicted G-Force. End of activation: pilot dies, Null-Frame removed. Finish-Gate exception: recorded as Finisher if final lap completed. Not available at Handling 1.
 
----
-
 ### EMERGENCY DAMPENER CHECK
-
 When a pilot at Handling 1 Blacks Out, roll before any other effects:
-
 | Check Number | Survive on |
 |:---|:---:|
 | 1st | 2+ |
 | 2nd | 4+ |
 | 3rd | 6+ |
 | 4th | death, no roll |
-
-Success: resolve Blackout normally (Tumble does NOT take more Handling).
-Failure: pilot dies, Null-Frame removed.
-
----
+Success: resolve Blackout normally (Tumble does NOT cause further Handling loss).
+Failure: pilot dies. Null-Frame becomes a Dead Stick - activates automatically each round at its last Vector, moves Long Straight forward, no Skid Dice, no G-Force, no reactions. Removed on wall or Heavy Solid collision. Gate passages do not count.
 
 # CREDITS & LEGAL
 
