@@ -4,18 +4,44 @@
 *G-Zero is an unofficial, non-commercial fan hack. Gaslands: Refuelled is copyright Mike Hutchinson / Osprey Games 2019. No challenge to copyright is intended.*
 <br>
 
+> ##### The world did not end; there was no money in it.
+
+What happened instead is that the corps outlived the states, the states outlived the idea of states, and then nothing really changed except the letterhead. The Few run the enclaves. The enclaves run the infrastructure. The infrastructure runs on debt, and the debt runs on the rest.
+
+For the few, it worked out. Arcologies with vertical gardens and clean water and a real sky over real earth with real plants. Post-scarcity pockets, well-managed, carefully photographed for the feeds. Proof that the system works.
+
+For the rest: the sprawl, the hubs, the artificial dirt. High-tech, low-life. The sky above the blocks is the colour of a feed that has nothing to broadcast. Neural implants run on subscription models. Your air filter is a brand name. Your body is a liability you have not finished paying off.
+
+Into this, somebody invented zero gravity.
+
+The Boards saw what the Colosseum did for Rome and updated the formula. The G-Zero league is clean, beautiful, and carefully regulated — a pure sport where the best pilots from any hub push the limits of physics in machines that cost more than most districts do. Broadcast simultaneously to every screen in every timezone. The commentators are excellent. The crashes are spectacular. The drama is delightful.
+
+Nobody is supposed to die in G-Zero. The insurance premiums alone guarantee the Boards pay attention. That said, blacking out at 1000 km/h with a wall in front of you is not a fun experience, and the waivers pilots sign before their first qualifying lap would take a corporate lawyer three days to read. But a cockpit painted red, perfectly lit — that is what really pulls the numbers.
+
+The tracks are everywhere. Some float above the wastelands. Suspended circuits, kilometres of engineered tarmac hanging in the air above the places the Boards decided were not worth fixing. The rest watches from below. The feeds make it beautiful. Sometimes the race is in your backyard; someone could get hit. The feeds make it beautiful.
+
+The pilots know what they are. They know what the crowds are for. Some of them mind.
+
+Most of them fly anyway, because the alternative is the sprawl - and they are very, very good at this.
+
+Speed is the one thing that does not care who owns it.
+
+
 > ##### DESIGN INTENT
-> G-Zero strips Gaslands: Refuelled down to its skeleton and rebuilds it as a pure anti-gravity racing game in the spirit of Trackmania, F-Zero, Extreme G and WipeOut. No weapons. No damage. No killing. Just speed, corners, G-forces, and the occasional catastrophic blackout.
+> G-Zero strips Gaslands: Refuelled down to its skeleton and rebuilds it as a 
+> pure anti-gravity racing game in the spirit of F-Zero, Extreme G, WipeOut, 
+> and Speed Racer. No weapons. No damage. No killing. Just speed, corners, 
+> G-forces, and the occasional catastrophic blackout.
 >
-> Everything that exists in this document replaces the equivalent Gaslands rule. Where no replacement is stated, use the Gaslands: Refuelled rules as written.
-
----
-
-# THE WORLD
-
-The circuits of G-Zero float above the wastelands. Hovercars, sleek, unstable, barely-street-legal anti-gravity sleds, scream around suspended tracks at speeds that make spectators genuinely nervous. There are no guns here. The track is the weapon. Physics is the executioner.
-
-Unlike the Gaslands death races, nobody is *"supposed"* to die in G-Zero. That said, blacking out at 900 km/h with a wall in front of you is not a fun experience, and the insurance premiums are absolutely devastating.
+> Everything in this document replaces the equivalent Gaslands rule. Where no 
+> replacement is stated, use Gaslands: Refuelled as written.
+>
+> ---
+>
+> ##### VIBE & SOUNDTRACK
+> F-Zero GX. WipeOut HD. Extreme G3. Speed Racer (2008).
+> Perturbator, Crystal Castles, Leftfield, Aphex Twin.
+> If the walls feel closer and the track feels faster, you are in the right headspace.
 
 ---
 
