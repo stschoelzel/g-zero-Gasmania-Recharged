@@ -1,3 +1,4 @@
+
 # G-Zero
 
 ## A FUELED BY GASLANDS GAME
@@ -5,15 +6,15 @@
 Gaslands: Refuelled is copyright Mike Hutchinson / Osprey Games 2019. 
 No challenge to copyright is intended.*
 
-##### The world did not end; there was no money in it.
+## The world did not end; there was no money to be made in the end.
 
 What happened instead is that the corps outlived the states, the states outlived the idea of states, and then nothing really changed except the letterhead. The Few run the enclaves. The enclaves run the infrastructure. The infrastructure runs on debt, and the debt runs on the rest.
 
-For the few, it worked out. Arcologies with vertical gardens and clean water and a real sky over real earth with real plants. Post-scarcity pockets, well-managed, Null-Frameefully photographed for the feeds. Proof that the system works.
+For the few, it worked out. Arcologies with vertical gardens and clean water and a real sky over real earth with real plants. Post-scarcity pockets, well-managed, carefully photographed for the feeds. Proof that the system works.
 
 For the rest: the sprawl, the hubs, the artificial dirt. High-tech, low-life. The sky above the blocks is the colour of a feed that has nothing to broadcast. Neural implants run on subscription models. Your air filter is a brand name. Your body is a liability you have not finished paying off.
 
-Into this, somebody invented zero gravity.
+Into this, somebody invented the Null Point Tech: zero gravity.
 
 The Boards saw what the Colosseum did for Rome and updated the formula. The G-Zero league is clean, beautiful, and Null-Frames are carefully regulated - a pure sport where the best pilots from any hub push the limits of physics in machines that cost more than most districts do. Broadcast simultaneously to every screen in every timezone. The commentators are excellent. The crashes are spectacular. The drama is delightful.
 
@@ -28,7 +29,7 @@ Most of them fly anyway, because the alternative is the sprawl - and they are ve
 Speed is the one thing that does not Null-Framee who owns it.
 
 
-> ##### DESIGN INTENT
+> ###### DESIGN INTENT
 > G-Zero strips Gaslands: Refuelled down to its skeleton and rebuilds it as a 
 > pure anti-gravity racing game in the spirit of F-Zero, Extreme G, WipeOut, 
 > and Speed Racer. No weapons. No damage. No killing. Just speed, corners, 
@@ -36,13 +37,13 @@ Speed is the one thing that does not Null-Framee who owns it.
 >
 > Everything in this document replaces the equivalent Gaslands rule. Where no 
 > replacement is stated, use Gaslands: Refuelled as written.
->
-> ---
->
-> ##### VIBE & SOUNDTRACK
-> F-Zero. WipeOut. Extreme G. Speed Racer.
-> Perturbator, Crystal Castles, Leftfield, Aphex Twin.
-> If the walls feel closer and the track feels faster, you are in the right headspace.
+
+---
+
+ ##### VIBE & SOUNDTRACK
+ F-Zero. WipeOut. Extreme G. Speed Racer.
+Perturbator, Crystal Castles, Leftfield, Aphex Twin.
+ If the walls feel closer and the track feels faster, you are in the right headspace.
 
 ---
 
@@ -65,25 +66,17 @@ in terms the body can understand. The numbers below are approximate.
 The fastest possible speed is the **Red Mist** Manoeuvre at V6, which produces 
 a brief burst in excess of 2400 km/h, 666 m/s, or approximately Mach 2.
 
-At these velocities, the cornering forces are not uncomfortable. They are 
-lethal. A tight corner at V3 produces G-loads that would destroy an 
-unprotected body in under a second, and at V6 there is no second. The Inertial Dampener is the only reason a pilot at speed is a pilot and not a pressurised liquid. 
+At these velocities, the cornering forces are not uncomfortable. They are lethal. A tight corner at V3 produces G-loads that would destroy an unprotected body in under a second, and at V6 there is no second. The Inertial Dampener is the only reason a pilot at speed is a pilot and not a pressurised liquid. This is what Energy management means. Every ⚡ result on your Skid Dice is the drive system routing surplus power back to the cockpit; power you can spend on the Dampener to keep the physics from collecting what they are owed. Run out of Energy, and G-Force tokens accumulate. Let them accumulate long enough, and the cockpit is your casket.
 
-This is what Energy management means. Every ⚡ result on your Skid Dice is 
-the drive system routing surplus power back to the cockpit; power you can 
-spend on the Dampener to keep the physics from collecting what they are owed. 
-Run out of Energy, and G-Force tokens accumulate. Let them accumulate long 
-enough, and the cockpit is your casket.
 ---
 
 # THE NULL-FRAMES
 
-**G-Zero uses a single vehicle type.** All vehicels are identical in stats. Variety comes from the Altitude system, your driving decisions, and (eventually) Sponsor perks.
+G-Zero uses a single vehicle type: **Null-Frames**  All Null-Frames are identical in stats. Variety comes from the Altitude system, your driving decisions, and (eventually) Sponsor perks.
 
+ Strip a G-Zero craft down to what keeps the pilot alive and you find three things: a zero-gravity induction array, a thrust package, and an Inertial Dampener. Everything else - the bodywork, the fairings, the sponsor livery, the aerodynamic surfaces that do nothing at Mach 1.5 - is architecture for the cameras. The cockpit sits at the exact geometric centre of the Dampener field. The pilot sits at the exact geometric centre of the cockpit. Every engineering decision made in the construction of a Null-Frame works outward from that point. The human is the load-bearing structure. Everything else is fluff.
 
-> Strip a G-Zero craft down to what keeps the pilot alive and you find three things: a zero-gravity induction array, a thrust package, and an Inertial Dampener. Everything else - the bodywork, the fairings, the sponsor livery, the aerodynamic surfaces that do nothing at Mach 1.5 - is architecture for the cameras. The cockpit sits at the exact geometric centre of the Dampener field. The pilot sits at the exact geometric centre of the cockpit. Every engineering decision made in the construction of a Null-Frame works outward from that point. The human is the load-bearing structure. Everything else is fluff.
-
-> ##### DIFFERENCE FROM GASLANDS
+> ###### DIFFERENCE FROM GASLANDS
 > Gaslands uses many vehicle types with different Hull, Handling, Max Vector, Weight, and Crew values. G-Zero removes all of that. There is one Null-Frame. Sponsors and Feats (coming in a future supplement) will add the differentiation back in a cleaner way.
 
 | Stat | Value |
