@@ -1,4 +1,5 @@
 
+
 # G-Zero
 
 ## A FUELED BY GASLANDS GAME
@@ -151,7 +152,7 @@ When it is your turn to activate, instead of moving immediately you may declare 
 
 If your target vehicle declares its own Delayed Activation, your delay resolves after their actual movement, not after their initial declaration. If your target is removed from the race before activating, your delayed activation resolves at the end of the current Vector Phase using the template you secretly chose.
 
-> ##### TACTICAL NOTE
+> ###### TACTICAL NOTE
 > Delayed Activation is the leader's tool. The player in front sees the chasers commit, then resolves their own move with knowledge of where the threats actually are. The cost is that you forfeit any chance to set the pace, and you cannot react to anyone moving before you in initiative order.
 
 ---
@@ -199,7 +200,7 @@ After placing the template, the active player rolls Skid Dice equal to current H
 
 You do not have to roll all your dice. If you are sitting on 4 or 5 G-Force tokens, sometimes the correct move is to roll nothing.
 
-> ##### NARRATIVE NOTE
+> ###### NARRATIVE NOTE
 > A Energy result is surplus energy the drive system routes back to the pilot. Spend it on the Inertial Dampener to bleed off G-Force, or push it into the thrust controls to change your Vector. Every point of Energy is a choice. Every G-Force token you cannot clear is a debt your body will eventually be asked to pay.
 
 ---
@@ -224,7 +225,7 @@ The Null-Frame that generated the Shockwave is not affected by its own template.
 
 ### BLACKOUT
 
-> ##### DIFFERENCE FROM GASLANDS
+> ###### DIFFERENCE FROM GASLANDS
 > In Gaslands, a Wipeout can result in a Null-Frame being Destroyed. In G-Zero, Null-Frames are not removed by ordinary Blackouts. A Blackout is what happens when the human inside the cockpit briefly stops being able to fly. Cumulative Blackouts at Handling 1 can eventually kill the pilot (see Emergency Dampener Check).
 
 When a pilot would Black Out, resolve the following steps in order:
@@ -332,7 +333,7 @@ A Dead Stick that leaves the track boundary entirely is removed immediately.
 
 If a Dead Stick passes through a Gate, the passage does not count. The race is over for that cockpit. A Red Mist manoeuvre is a deliberate sacrifice - an ace burning out on the final straight with their nose pointed at the Finish Gate. A pilot who dies to a system failure leaves behind expensive debris and a frame that the track will finish off in its own time. One is a legend written in fire. The other is just an Alloy Pizza waiting to happen.
 
-> ##### DESIGN NOTE
+> ###### DESIGN NOTE
 > Consider a Perk that allows an AI to take over. Alternatively, as a baseline rule, "Dead Stick" Null-Frames could bounce upon impact until they either collapse into a "pizza of alloy" due to total dampener failure (on a D6 roll of 1) or explode in a shockwave (on a D6 roll of 6).
 
 > ##### NOTE
@@ -477,12 +478,12 @@ The moving Null-Frame is the "aggressor" regardless of intent.
 
 High Altitude is the dominant position. Flying High makes a pilot dangerous as an aggressor and very resilient as a target. Low altitude makes a Null-Frame fast and fragile.
 
-> ##### SCALE NOTE
+> ###### DESIGN NOTE
 > These Null-Frames are travelling at 300 to over 2000 km/h. A graze is not a nudge. The reason a Heavy result is only 3 G-Force tokens is that at these speeds, the collision itself is measured in milliseconds. Debris from a destroyed object hangs in the air for only a few seconds, but at these velocities a few seconds is a full lap for the pack behind. This is why Burst Templates persist for the duration of the round (see Burst Templates below).
 
 ---
 
-### FULL COLLISION
+## FULL COLLISION
 
 When two Null-Frames are at the same Altitude, OR a Null-Frame collides with any object, a Full Collision occurs. First, determine orientation:
 
@@ -500,7 +501,7 @@ In a Null-Frame versus Null-Frame collision, each pilot declares a Reaction. In 
 
 **Spin-Out:** If you chose Brace and you are the non-moving Null-Frame, you may pivot the other Null-Frame up to 90 degrees (T-Bone) or any direction (Head-On) after movement resolves. If both pilots chose Brace on a Head-On, both Null-Frames spin each other simultaneously. Decide direction by rock-paper-scissors or dice-off.
 
-> ##### NOTE
+> ###### NOTE
 > Smash Attacks from Gaslands do not exist in this game. No attack dice are rolled. No Hull Points are lost. The only consequences of a collision are G-Force tokens, possible Spin-Outs, and (for object collisions) Burst Template effects.
 
 ---
@@ -541,7 +542,7 @@ The effect of the Burst Template depends on the material of the object struck. P
 
 Accelerator and Brake Fields are colour-coded at track setup. Fields may also be placed as permanent track features independent of any collision.
 
-> ##### DESIGNER NOTE
+> ###### DESIGN NOTE
 > Burst Templates exist to make object collisions matter beyond a single Null-Frame's misfortune. If a leader takes out a stack of barrels on the apex of a corner, the chasers entering that apex deal with the consequences too. Place soft scenery where you want the track to forgive, place heavy scenery where you want it to bite.
 
 ---
@@ -596,41 +597,42 @@ Use the Gaslands Audience Votes system (Gaslands: Refuelled page 88) as written,
 
 ---
 
-> ##### SPONSORS
-> Every Null-Frame on the grid flies someone else's colours. The Boards do not fund pilots; they fund narratives. Sponsors provide the shell, the entry fee, and the carefully managed public identity. What they get in return is forty minutes of uninterrupted broadcast real estate at speeds the cameras love. The contract details what happens if the pilot dies. It is longer than the section about winning.
->
-> Sponsors introduce asymmetric performance profiles tied to the Altitude system and the pilot's playstyle. This section is in development; full sponsor cards and draft rules will follow. The corps below are established presences on the G-Zero grid.
+### SPONSORS
 
+Every Null-Frame on the grid flies someone else's colours. The Boards do not fund pilots; they fund narratives. Sponsors provide the shell, the entry fee, and the carefully managed public identity. What they get in return is forty minutes of uninterrupted broadcast real estate at speeds the cameras love. The contract details what happens if the pilot dies. It is longer than the section about winning.
 >
-> **ISHIDA-REYES DYNAMICS** *(High specialist)* - Old money. The kind of corp that does not need to explain what it makes because it makes the infrastructure everything else runs on. IRD shells are engineered for the High band; their pilots start each race with 2 Energy already banked and pay 1 less G on High-to-High transitions. The livery is white and a very specific shade of blue that is trademarked in fourteen jurisdictions. Their pilot contracts include a non-disclosure clause that covers the afterlife, legally speaking. *Vibe: Clean hands, deep water.*
->
-> **PROMETHEAN STREET COLLECTIVE** *(Low specialist)* - Not a corp. Technically a registered racing cooperative out of the PRomethean Hub transit sprawl, which means it is owned collectively by its members, has three different people who claim to be the CEO, and somehow keeps making the grid. PSC shells are built fast and cheap in workshops that probably violate six safety codes; their pilots reduce the G-Force cost of Low transitions by 1 and gain a bonus Short Straight on Mid-to-Low drops instead of Medium. The livery changes every season because nobody can agree. They have never won. They have finished, which in G-Zero is not the same thing as losing. *Vibe: The cooperative that shouldn't be here but keeps showing up.*
->
-> **TETSUŌ HEAVY INDUSTRIES** *(Collision specialist)* - Nobody officially sanctions ramming in G-Zero. Tetsuō's legal team has sixty different filings that explain, at length, why what their pilots do is not ramming. The shells are overbuilt for the class, the pilots are selected for aggression, and the Graze table seems to like them. Tetsuō pilots treat Heavy Graze results as Medium when they are the aggressor. The founder's name is not actually Tetsuō. The founder's name is not something the Boards have been able to verify. *Vibe: Street Gang energy filtered through a corporate structure. Distance's aggressive geometry.*
->
-> **RUTHERFORD PRISON SYSTEMS - G-ZERO DIVISION** *(Attrition specialist)* - Rutherford's pivot from correctional logistics to motorsport is either the most cynical piece of brand rehabilitation in enclave history or a genuine attempt to give their contracted pilots something to race toward. The pilots are serving. The contracts specify that podium finishes reduce sentence length. The shells are functional, maintained by people who learned engineering because the alternative was worse, and finished in Rutherford's institutional grey with a single orange stripe. Their pilots start each race having already passed one Emergency Dampener Check - the paperwork is already filed. *Vibe: Rutherford. Still the prison corp. Now with more broadcast rights.*
->
-> **MIYAZAKI MOTION WORKS** *(Override specialist)* - Miyazaki builds shells the way they build everything: with more care than the budget suggests and a philosophy the engineers argue about in the canteen. Their pilots recover from Override faster - a Null-Frame in Override on a Miyazaki shell may make a single V1 activation during the Override turn at half template length, as if the system is already fighting its way back online. The livery is understated. The shells are not. *Vibe: Precision Enginieering and principles. Slightly out of place in the world they inhabit.*
->
-> **QORALIS BROADCAST SYSTEMS** *(Energy specialist)* - Qoralis does not make shells. Qoralis makes feeds. The racing division exists because someone at the board level realised that owning a team means controlling the camera angle. QBS pilots receive +1 Energy on any activation that is broadcast as the featured race feed that round - which the Qoralis team manager decides, and they always decide in their pilot's favour. The shells are beautiful. The cockpit cameras are the highest resolution on the grid. *Vibe: Media machine energy. The race is content.*
+Sponsors introduce asymmetric performance profiles tied to the Altitude system and the pilot's playstyle. This section is in development; full sponsor cards and draft rules will follow. The corps below are established presences on the G-Zero grid.
+
+**ISHIDA-REYES DYNAMICS** *(High specialist)* - Old money. The kind of corp that does not need to explain what it makes because it makes the infrastructure everything else runs on. IRD shells are engineered for the High band; their pilots start each race with 2 Energy already banked and pay 1 less G on High-to-High transitions. The livery is white and a very specific shade of blue that is trademarked in fourteen jurisdictions. Their pilot contracts include a non-disclosure clause that covers the afterlife, legally speaking. *Vibe: Clean hands, deep water.*
+
+**PROMETHEAN STREET COLLECTIVE** *(Low specialist)* - Not a corp. Technically a registered racing cooperative out of the PRomethean Hub transit sprawl, which means it is owned collectively by its members, has three different people who claim to be the CEO, and somehow keeps making the grid. PSC shells are built fast and cheap in workshops that probably violate six safety codes; their pilots reduce the G-Force cost of Low transitions by 1 and gain a bonus Short Straight on Mid-to-Low drops instead of Medium. The livery changes every season because nobody can agree. They have never won. They have finished, which in G-Zero is not the same thing as losing. *Vibe: The cooperative that shouldn't be here but keeps showing up.*
+
+**TETSUŌ HEAVY INDUSTRIES** *(Collision specialist)* - Nobody officially sanctions ramming in G-Zero. Tetsuō's legal team has sixty different filings that explain, at length, why what their pilots do is not ramming. The shells are overbuilt for the class, the pilots are selected for aggression, and the Graze table seems to like them. Tetsuō pilots treat Heavy Graze results as Medium when they are the aggressor. The founder's name is not actually Tetsuō. The founder's name is not something the Boards have been able to verify. *Vibe: Street Gang energy filtered through a corporate structure. Distance's aggressive geometry.*
+
+**RUTHERFORD PRISON SYSTEMS - G-ZERO DIVISION** *(Attrition specialist)* - Rutherford's pivot from correctional logistics to motorsport is either the most cynical piece of brand rehabilitation in enclave history or a genuine attempt to give their contracted pilots something to race toward. The pilots are serving. The contracts specify that podium finishes reduce sentence length. The shells are functional, maintained by people who learned engineering because the alternative was worse, and finished in Rutherford's institutional grey with a single orange stripe. Their pilots start each race having already passed one Emergency Dampener Check - the paperwork is already filed. *Vibe: Rutherford. Still the prison corp. Now with more broadcast rights.*
+
+**MIYAZAKI MOTION WORKS** *(Override specialist)* - Miyazaki builds shells the way they build everything: with more care than the budget suggests and a philosophy the engineers argue about in the canteen. Their pilots recover from Override faster - a Null-Frame in Override on a Miyazaki shell may make a single V1 activation during the Override turn at half template length, as if the system is already fighting its way back online. The livery is understated. The shells are not. *Vibe: Precision Enginieering and principles. Slightly out of place in the world they inhabit.*
+
+**QORALIS BROADCAST SYSTEMS** *(Energy specialist)* - Qoralis does not make shells. Qoralis makes feeds. The racing division exists because someone at the board level realised that owning a team means controlling the camera angle. QBS pilots receive +1 Energy on any activation that is broadcast as the featured race feed that round - which the Qoralis team manager decides, and they always decide in their pilot's favour. The shells are beautiful. The cockpit cameras are the highest resolution on the grid. *Vibe: Media machine energy. The race is content.*
+
 ---
 
-> ##### FEATS
-> Feats are persistent upgrades a pilot learns, earns, and carries. They are not modifications to the shell - the shell is replaceable. A pilot who survives long enough to develop real instincts is considerably harder to manufacture. The Boards are aware of this. The pilots are not supposed to be.
->
-> Feats live and die with the pilot. A dead pilot's Feats die with them. Handling lost during a race does not just return between races; a pilot who has been pushing their limits for three seasons feels it. What they gain instead is pattern recognition, timing, and the kind of calm that only comes from having already seen the worst the track can do.
->
-> Feats fall into three categories. **Inherent** Feats are things a pilot simply is - neurology, physiology, the kind of talent that cannot be taught and is therefore deeply unfair. **Experience** Feats are things a pilot has learned to do through repetition, consequence, and survival. **Implant** Feats are purchased upgrades to the biological hardware; subscription-based in most enclaves, owned outright by almost nobody. Implants are the only Feats that can theoretically be transferred to another pilot. The surgery required to do so is not covered by standard race insurance.
->
-> This section is in development. Planned examples include:
->
-> **Newtype** *(Inherent)* - Some pilots process track data faster than the cockpit systems can render it. A Newtype pilot always generates 1 additional Energy result per activation, as if the Dampener field itself is half a second ahead of physics. Whether this is genuine precognition, extreme sensory integration, or something the medical board does not have a classification for yet is not something the Boards encourage discussion of.
->
-> **Iron Stomach** *(Inherent)* - The pilot's G-tolerance is abnormal. Blackout triggers at 7 G-Force tokens instead of 6. The medical file attached to this Feat is three pages longer than standard and flagged for review after every race. The review always comes back clean.
->
-> **Ghost Line** *(Experience)* - Once per race, the pilot may change their Altitude after the atAggressor frame's Altitude is revealed. They have seen this before. They already knew.
->
-> **Hardwired Reflexes** *(Implant)* - The pilot's reaction latency has been surgically reduced to below 80 milliseconds. Once per race, the pilot may cancel one G-Force result after it is rolled. The subscription renewal notice arrives in the cockpit feed during qualifying. It is always bad timing.
+### FEATS
+Feats are persistent upgrades a pilot learns, earns, and carries. They are not modifications to the shell - the shell is replaceable. A pilot who survives long enough to develop real instincts is considerably harder to manufacture. The Boards are aware of this. The pilots are not supposed to be.
+
+ Feats live and die with the pilot. A dead pilot's Feats die with them. Handling lost during a race does not just return between races; a pilot who has been pushing their limits for three seasons feels it. What they gain instead is pattern recognition, timing, and the kind of calm that only comes from having already seen the worst the track can do.
+
+Feats fall into three categories. **Inherent** Feats are things a pilot simply is - neurology, physiology, the kind of talent that cannot be taught and is therefore deeply unfair. **Experience** Feats are things a pilot has learned to do through repetition, consequence, and survival. **Implant** Feats are purchased upgrades to the biological hardware; subscription-based in most enclaves, owned outright by almost nobody. Implants are the only Feats that can theoretically be transferred to another pilot. The surgery required to do so is not covered by standard race insurance.
+
+ This section is in development. Planned examples include:
+
+**Newtype** *(Inherent)* - Some pilots process track data faster than the cockpit systems can render it. A Newtype pilot always generates 1 additional Energy result per activation, as if the Dampener field itself is half a second ahead of physics. Whether this is genuine precognition, extreme sensory integration, or something the medical board does not have a classification for yet is not something the Boards encourage discussion of.
+
+**Iron Stomach** *(Inherent)* - The pilot's G-tolerance is abnormal. Blackout triggers at 7 G-Force tokens instead of 6. The medical file attached to this Feat is three pages longer than standard and flagged for review after every race. The review always comes back clean.
+
+ **Ghost Line** *(Experience)* - Once per race, the pilot may change their Altitude after the atAggressor frame's Altitude is revealed. They have seen this before. They already knew.
+
+**Hardwired Reflexes** *(Implant)* - The pilot's reaction latency has been surgically reduced to below 80 milliseconds. Once per race, the pilot may cancel one G-Force result after it is rolled. The subscription renewal notice arrives in the cockpit feed during qualifying. It is always bad timing.
 
 ---
 
@@ -733,6 +735,7 @@ Handling reduces by 1 with every Tumble or Redout (minimum 1). No Hull Points.
 
 ### ACTIVATION ORDER
 Pole Position activates first, then initiative order (race standings, leader to last). Qualified Null-Frames must activate or declare Delayed Activation. No passing turns. Pole Position passes to the current race leader at end of each round.
+
 **Delayed Activation**: secretly choose template, name a lower-initiative target Null-Frame, activate immediately after that Null-Frame moves (before its cleanup effects).
 Altitude is declared secretly at the start of each Vector Phase. Reveal when activated or when a collision occurs.
 
@@ -741,7 +744,7 @@ Roll up to Handling dice (max 4). Resolve in order:
 | Result | Effect |
 |:---|:---|
 | Energy ⚡ | Activate Inertial Dampener (cancel a result), change Vector +/-1 (costs 1 G), or remove 1 G |
-| G-Force G | +1 G token (unavoidable) |
+| G-Force | +1 G token (unavoidable) |
 | Drift | Move to Drift exit. +1 G |
 | Spin | Pivot up to 90 degrees. +1 G |
 
@@ -803,6 +806,7 @@ Skip next qualifying activation. Triggered by Blackout (3 to 6) or any Tumble. D
 
 ### PILOT ACTIONS
 **Redout**: Declare at start of activation. -1 Handling permanently. Ignore Vector restrictions on templates for this activation. Stackable. Not available at Handling 1.
+
 **Red Mist**: Once per race, start of activation, V5 or V6 only. Add two Long Straight templates in any order to your normal template. No Skid Dice, no self-inflicted G-Force. End of activation: pilot dies, Null-Frame removed. Finish-Gate exception: recorded as Finisher if final lap completed. Not available at Handling 1.
 
 ### EMERGENCY DAMPENER CHECK
@@ -819,11 +823,8 @@ Failure: pilot dies. Null-Frame becomes a Dead Stick - activates automatically e
 # CREDITS & LEGAL
 
 ### Author
-**Stephan Schölzel** {{fa,fa-github}} [github.com/stschoelzel](https://github.com/stschoelzel/)  
-{{fa,fa-link}} [G-Zero Project Repository](https://github.com/stschoelzel/g-zero-Gasmania-Recharged)
-
-:::
-:::
+**Stephan Schölzel** [github.com/stschoelzel](https://github.com/stschoelzel/)  
+ [G-Zero Project Repository](https://github.com/stschoelzel/g-zero-Gasmania-Recharged)
 
 ### Fonts
 Under the **SIL Open Font License, Version 1.1**, this document uses the following typefaces:
@@ -831,12 +832,11 @@ Under the **SIL Open Font License, Version 1.1**, this document uses the followi
 * **Karrik** & **Resistance** by [Velvetyne Type Foundry](https://www.velvetyne.fr)
 * **Illinois Mono** by [MadSimple](https://github.com/MadSimple)
 
-:::
+
 
 ### Disclaimer
 "Gaslands Refuelled" is a trademark of Osprey Publishing. This fan-made supplement is not affiliated with, endorsed, or sponsored by Osprey Publishing or Mike Hutchinson.
 
-{{artist,bottom:40px,right:100px
+
 ##### Build. Race. Die.
-G-ZERO 2026
-}}
+
